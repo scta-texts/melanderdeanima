@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://bitbucket.org/lombardpress/lombardpress-schema/raw/master/LombardPressODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://bitbucket.org/lombardpress/lombardpress-schema/raw/master/LombardPressODD.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Disputatio IV, Sectio 1, Difficultas 1 [Penn855 Transcription]</title>
+				<author>Placidus Aegiius Melander</author>
+				<editor>Daniel </editor>
+			</titleStmt>
+			<editionStmt>
+				<edition n="0.0.0-dev">
+					<title>Disputatio IV, Sectio 1, Difficultas 1 [Penn855 Transcription]</title>
+					<date when="2016-05-17">May 17, 2016</date>
+				</edition>
+			</editionStmt>
+			<publicationStmt>
+				<publisher>Lombard Press</publisher>
+				<pubPlace>Baltimore, MD</pubPlace>
+				<availability status="free">
+					<p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref></p>
+				</availability>
+				<date when="2016-05-17">May 17, 2016</date>  
+			</publicationStmt>
+			<sourceDesc>
+				<listWit>
+					<witness xml:id="P" n="penn855">Philadelphia, University of Pennyslvania, ms. codex 855</witness>
+				</listWit>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="draft">
+			<listChange>
+				<change when="2015-07-18" who="#JW" status="draft" n="0.0.0-dev">
+					<p>Created file for the first time.</p>
+					<note type="status">
+						<note type="collobaration">Yes</note>
+						<note type="validating-schema">lbp-0.0.1</note>
+						<note type="transcription-type">documentary</note>
+					</note>
+				</change>
+			</listChange>
+		</revisionDesc>
+	</teiHeader>
+	
+	<text xml:lang="la">
+		<front>
+			<div xml:id="includeList">
+				<xi:include href="https://bitbucket.org/lombardpress/lombardpress-lists/raw/master/workscited.xml" xpointer="worksCited"/>
+				<xi:include href="https://bitbucket.org/lombardpress/lombardpress-lists/raw/master/Prosopography.xml" xpointer="prosopography"/>
+			</div>
+			<div type="startsOn">
+				<pb ed="#P" n="212"/>
+			</div>
+		</front>
+		<body>
+			<div xml:id="pam-d4s1d1">
+				<head>Disputatio IV, Sectio 1, Difficultas 1 [Penn855 Transcription]</head>
+				<head type="questionTitle">An possit evidenter demonstrari seclusa fide catholica animam rationalem esse immortalem</head>
+				<p><lb ed="#P"/>Responsoris sententia posse<pc ana="#punctus"/> Primo Demonstratione et certitudine 
+					<lb ed="#P"/>morali <pc ana="#virgula"/> hoc modo: Si deus providens et iustus est anima 
+					<pb ed="#P" n="212"/><lb ed="#P"/>rationalis immortalis est <pc ana="#virgula"/> sed Deus est providens et iustus ergo 
+					<lb ed="#P"/>Minor patet lumine naturali <pc ana="#punctus"/> Maior probatur <pc ana="#punctus"/> Si Deus pro<lb ed="#P"/>videns 
+					et iustus est aequus est ut probos Dei cultores prae<lb ed="#P"/>mio 
+					afficiat improbos <unclear>vero</unclear> et consentores supplicio <pc ana="#punctus"/> 
+					<lb ed="#P"/>hoc <unclear>tunc</unclear> evidentur nisi fit <unclear>spr</unclear> in hoc vita cum plerumque 
+					<lb ed="#P"/>improbi terrena felicitate abundent probi <unclear>vero</unclear> mi<lb ed="#P"/>seria <pc ana="#virgula"/> 
+					ergo debet fieri post hanc vita <pc ana="#virgula"/> ergo anima superstes 
+					<lb ed="#P"/>erit post mortem<pc ana="#punctus"/> Hoc <unclear>argumentum</unclear> <unclear>testatur</unclear> Clemens 
+					<lb ed="#P"/>Alexandrinus liber 3 <pc ana="#punctus"/> se ex ore Sancti Petri audiuisse <pc ana="#punctus"/>
+				</p>
+				<p>Secundo simili demonstratione: Sed insatiabilis appetinus ae<lb ed="#P"/>ternitatis 
+					cui libet homini insitus <pc ana="#punctus"/> Item responsus et vene<lb ed="#P"/>ratio  
+					Numinis alicuius superioris cum secreto quodam re<lb ed="#P"/>morsu 
+					consciae si id contemnatur ob timore poenae <pc ana="#punctus"/> 
+					<lb ed="#P"/>haec <unclear>vero</unclear> nisi essent si anima mortalis esset <pc ana="#punctus"/> Non enim ap<lb ed="#P"/>peteret 
+					<lb ed="#P"/>quod impossible sciret <pc ana="#punctus"/> neque adeo poenam time<lb ed="#P"/>ret 
+					<pc ana="#virgula"/>quam morte aeternum vitare posset<pc ana="#punctus"/>
+				</p>
+				<p>tertio demonstratione naturali: Substantia spiritualis/spiritalis per se subsistens 
+					<lb ed="#P"/>est immortalis<pc ana="#virgula"/> anima humana est eiusmodi substantia ergo. 
+					<lb ed="#P"/>Maior patet primo quod sit substantia <unclear>oei?</unclear> consensu. Secundo quod sit 
+					<lb ed="#P"/>spiritualis tum ex operationibus intellectus<pc ana="#virgula"/> quia ratiocinamur cir<lb ed="#P"/>ca 
+					spiritualia quae nullo sensu percepimus. Item circa 
+					<lb ed="#P"/>fictitia quae nec <unclear>sub</unclear> nec esse <unclear></unclear>. Est a<pc ana="#punctus"/> clarum
+					<lb ed="#P"/><unclear>poria?</unclear> materiale non nisi materiales operationes circa obiectum
+					<lb ed="#P"/>materiale habere posse: Tum ex operationibus voluntatis qui super<lb ed="#P"/>naturalia 
+					neglectis omnibus ceteris appetitibus quod maa<lb ed="#P"/>lis
+					<unclear>poria?</unclear> <unclear>nisi?</unclear> <unclear>pt?</unclear> <pc ana="virgula"/> ergo principium intelligendi et volendi est
+					
+				</p>
+				
+		
+			</div>	
+		</body>
+	</text>
+</TEI>
+
