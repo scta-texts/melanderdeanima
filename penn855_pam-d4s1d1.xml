@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://bitbucket.org/lombardpress/lombardpress-schema/raw/master/LombardPressODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://bitbucket.org/lombardpress/lombardpress-schema/raw/master/LombardPressODD.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/0.0/diplomatic/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/0.0/diplomatic/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
 	<teiHeader>
 		<fileDesc>
@@ -144,7 +144,7 @@
 				<p>Dices <pc ana="punctus"/> 2 <pc ana="punctus"/> quia monstrat minor est, Angeli custodes 
 					<lb ed="#P"/> <unclear>monstravit</unclear> <name>Arabus</name> <pc ana="#punctus"/> 
 				</p>
-				<pb ed="#W" n="216"/> <lb ed="#P"/>Responsa ad M <pc ana="punctus"/> minor est in conditione qua Maior est <pc ana="#punctus"/> 
+				<p><pb ed="#W" n="216"/> <lb ed="#P"/>Responsa ad M <pc ana="punctus"/> minor est in conditione qua Maior est <pc ana="#punctus"/> 
 				<lb ed="#P"/>transeat <pc ana="punctus"/> in natura <pc ana="#punctus"/>  nego <pc ana="#punctus"/> Sanem <name>Christus </name> Dominus monstrare 
 				<lb ed="#P"/>venit perfectior tamen fuit quam quibus monstravit <pc ana="#punctus"/>  
 				<lb ed="#P"/>Dices 3 <pc ana="#punctus"/> eaedem sub proprietates Anima et Angeli 
@@ -160,7 +160,8 @@
 				<lb ed="#P"/>Easdem enim specie proprietates prodire ab diversis <unclear>feris?</unclear> 
 				<lb ed="#P"/>nisi est insolitum <pc ana="#punctus"/> quia <unclear>poia?</unclear> videndi <pc ana="#punctus"/> audiendi <pc ana="#punctus"/> ab di <pc ana="#virgula"/> 
 				<lb ed="#P"/>versissimis <name>arabus</name> provenit <pc ana="#punctus"/> An ut specie differant 
-				<lb ed="#P"/>illi ille <unclear>lq</unclear> <unclear>infra?</unclear> <unclear>dicer?</unclear> <pc ana="#punctus"/>		
+				<lb ed="#P"/>illi ille <unclear>lq</unclear> <unclear>infra?</unclear> <unclear>dicer?</unclear> <pc ana="#punctus"/>	
+			</p>
 		
 			</div>	
 		</body>
