@@ -60,18 +60,19 @@
 				<p>
 					<lb ed="#P"/>Responsoris sententia posse<pc ana="#punctus"/> Primo Demonstratione et certitudine 
 					<lb ed="#P"/>morali <pc ana="#virgula"/> hoc modo: Si deus providens <pc ana="#virgula"/> et iustus est anima 
-				<pb ed="#W" n="213"/>
+					<pb ed="#W" n="213"/>
 					<lb ed="#P"/>rationalis immortalis est <pc ana="#virgula"/> sed Deus est providens et iustus ergo 
 					<lb ed="#P"/>Minor patet lumine naturali <pc ana="#punctus"/> Maior probatur <pc ana="#punctus"/> Si Deus pro <pc ana="#virgula"/> 
 					<lb ed="#P"/>videns et iustus est aequus est ut probos Dei cultores prae <pc ana="#virgula"/> 
 					<lb ed="#P"/>mio afficiat <pc ana="#virgula"/> improbos enim et Consentores supplicio <pc ana="#punctus"/> 
 					<lb ed="#P"/>hoc enim evidentur nisi fit semper in hoc vita cum plerumque 
-					<lb ed="#P"/>improbi terrena felicitate abundent probi enim mi <pc ana="#virgula"/>
+					<lb ed="#P"/>improbi terrena felicitate abundent probi enim mi <pc ana="#virgula"/> 
 					<lb ed="#P"/>seria <pc ana="#virgula"/> ergo debet fieri post hanc vita <pc ana="#virgula"/> ergo anima superstes 
 					<lb ed="#P"/>erit post mortem<pc ana="#punctus"/> Hoc argumentum testatur <name>Clemens
-					<lb ed="#P"/>Alexandrinus</name> liber 3 <pc ana="#punctus"/> se ex ore <name>Sancti Petri</name> audiuisse <pc ana="#punctus"/>
+					<lb ed="#P"/>Alexandrinus</name> liber 3 <pc ana="#punctus"/> se ex ore <name ref="#Peter">Sancti Petri</name> audiuisse <pc ana="#punctus"/>
 				</p>
-				<p>Secundo simili demonstratione: Sed insatiabilis appetitus ae
+				<p>
+					<lb ed="#P"/>Secundo simili demonstratione: Sed insatiabilis appetitus ae
 					<lb ed="#P"/>ternitatis cui libet homini insitus <pc ana="#punctus"/> Item responsus et vene <pc ana="#virgula"/> 
 					<lb ed="#P"/>ratio Numinis alicuius superioris cum secreto quodam re <pc ana="#virgula"/>
 					<lb ed="#P"/>morsu consciae si id contemnatur ob timore poenae <pc ana="#punctus"/> 
@@ -145,23 +146,26 @@
 					<lb ed="#P"/> <unclear>monstravit</unclear> <name>Arabus</name> <pc ana="#punctus"/> 
 				</p>
 				<p><pb ed="#W" n="216"/> <lb ed="#P"/>Responsa ad M <pc ana="punctus"/> minor est in conditione qua Maior est <pc ana="#punctus"/> 
-				<lb ed="#P"/>transeat <pc ana="punctus"/> in natura <pc ana="#punctus"/>  nego <pc ana="#punctus"/> Sanem <name>Christus </name> Dominus monstrare 
-				<lb ed="#P"/>venit perfectior tamen fuit quam quibus monstravit <pc ana="#punctus"/>  
-				<lb ed="#P"/>Dices 3 <pc ana="#punctus"/> eaedem sub proprietates Anima et Angeli 
-				<lb ed="#P"/>ille <unclear>lq</unclear> voluntas <unclear>pora</unclear> <unclear>lo</unclear> eo motiva praeter quas nul <pc ana="#virgula"/> 
-				<lb ed="#P"/>las habet ergo sub eiusdem naturae. 
-				<lb ed="#P"/>Si ille <unclear>lq</unclear>" horum et Angelorum specie differt <pc ana="punctus"/> ut est 
-				<lb ed="#P"/><unclear>coior?</unclear> opinio argentum nihil valet <pc ana="#punctus"/> quia <unclear>Ants?</unclear> est ver <pc ana="#virgula"/> 
-				<lb ed="#P"/>rum de iisdem contrarie <pc ana="#punctus"/> nisi specie <pc ana="#punctus"/> Si enim nisi differunt <pc ana="#punctus"/> 
-				</p> 
-			<p>Responsa etsi ex his proprietatibus nisi colligar essentia <pc ana="#virgula"/> 
-				<lb ed="#P"/>lis diversitas illarum substantiarum <pc ana="#punctus"/> colligi tamen ex Esse 
-				<lb ed="#P"/>conpleto et inconpleto quorum illud habent Angeli hoc Anima <pc ana="#punctus"/> 
-				<lb ed="#P"/>Easdem enim specie proprietates prodire ab diversis <unclear>feris?</unclear> 
-				<lb ed="#P"/>nisi est insolitum <pc ana="#punctus"/> quia <unclear>poia?</unclear> videndi <pc ana="#punctus"/> audiendi <pc ana="#punctus"/> ab di <pc ana="#virgula"/> 
-				<lb ed="#P"/>versissimis <name>arabus</name> provenit <pc ana="#punctus"/> An ut specie differant 
-				<lb ed="#P"/>illi ille <unclear>lq</unclear> <unclear>infra?</unclear> <unclear>dicer?</unclear> <pc ana="#punctus"/>	
-			</p>
+					<lb ed="#P"/>transeat <pc ana="punctus"/> in natura <pc ana="#punctus"/>  nego <pc ana="#punctus"/> Sanem <name>Christus </name> Dominus monstrare 
+					<lb ed="#P"/>venit perfectior tamen fuit quam quibus monstravit <pc ana="#punctus"/>
+				</p>
+				<p><lb ed="#P"/>Dices 3 <pc ana="#punctus"/> eaedem sub proprietates Animae et Angeli 
+					<lb ed="#P"/>ille loquitur voluntas potentia locomotiva praeter quas nul<pc ana="#virgula"/><lb ed="#P"/>las 
+						habet ergo sub eiusdem naturae. 
+				</p>
+				<p><lb ed="#P"/>Si ille <unclear>lq</unclear>" horum et Angelorum specie differt <pc ana="punctus"/> ut est 
+					<lb ed="#P"/><unclear>coior?</unclear> opinio argentum nihil valet <pc ana="#punctus"/> quia <unclear>Ants?</unclear> est ver <pc ana="#virgula"/> 
+					<lb ed="#P"/>rum de iisdem contrarie <pc ana="#punctus"/> nisi specie <pc ana="#punctus"/> Si enim nisi differunt <pc ana="#punctus"/>
+				</p>
+				<p><lb ed="#P"/>Responsa etsi ex his proprietatibus nisi colligar essentia <pc ana="#virgula"/> 
+					<lb ed="#P"/>lis diversitas illarum substantiarum <pc ana="#punctus"/> colligi tamen ex Esse 
+					<lb ed="#P"/>conpleto et inconpleto quorum illud habent Angeli hoc Anima <pc ana="#punctus"/> 
+					<lb ed="#P"/>Easdem enim specie proprietates prodire ab diversis <unclear>feris?</unclear> 
+					<lb ed="#P"/>nisi est insolitum <pc ana="#punctus"/> quia <unclear>poia?</unclear> videndi <pc ana="#punctus"/> audiendi <pc ana="#punctus"/> ab di <pc ana="#virgula"/> 
+					<lb ed="#P"/>verissimis <name>arabus</name> provenit <pc ana="#punctus"/> An ut specie differant 
+					<lb ed="#P"/>illi ille <unclear>lq</unclear> <unclear>infra?</unclear> <unclear>dicer?</unclear> <pc ana="#punctus"/>	
+				</p>
+
 		
 			</div>	
 		</body>
