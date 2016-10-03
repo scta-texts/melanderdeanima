@@ -58,115 +58,203 @@
 				<head>Disputatio IV, Sectio 1, Difficultas 1 [Penn855 Transcription]</head>
 				<head type="questionTitle">An possit evidenter demonstrari seclusa fide catholica animam rationalem esse immortalem</head>
 				<p>
-					<lb ed="#P"/>Responsoris sententia posse<pc ana="#punctus"/> Primo Demonstratione et certitudine 
+					<lb ed="#P"/>Respondet sententia posse<pc ana="#virgula"/> 1<pc ana="#punctus"/> Demonstratione et certitudine 
 					<lb ed="#P"/>morali <pc ana="#virgula"/> hoc modo: Si deus providens <pc ana="#virgula"/> et iustus est anima 
-					<pb ed="#W" n="213"/>
+					<pb ed="#P" n="213"/>
 					<lb ed="#P"/>rationalis immortalis est <pc ana="#virgula"/> sed Deus est providens et iustus ergo 
-					<lb ed="#P"/>Minor patet lumine naturali <pc ana="#punctus"/> Maior probatur <pc ana="#punctus"/> Si Deus pro <pc ana="#virgula"/> 
-					<lb ed="#P"/>videns et iustus est aequus est ut probos Dei cultores prae <pc ana="#virgula"/> 
-					<lb ed="#P"/>mio afficiat <pc ana="#virgula"/> improbos enim et Consentores supplicio <pc ana="#punctus"/> 
+					<lb ed="#P"/>Minor patet lumine naturali <pc ana="#punctus"/> Maior probatur <pc ana="#punctus"/> Si Deus pro<pc ana="#dbslash"/><lb ed="#P"/>videns
+					et iustus est aequus est ut probos Dei cultores prae<pc ana="#dbslash"/><lb ed="#P"/>mio 
+					afficiat<pc ana="#virgula"/> improbos enim et Consentores supplicio<pc ana="#punctus"/> 
 					<lb ed="#P"/>hoc enim evidentur nisi fit semper in hoc vita cum plerumque 
-					<lb ed="#P"/>improbi terrena felicitate abundent probi enim mi <pc ana="#virgula"/> 
-					<lb ed="#P"/>seria <pc ana="#virgula"/> ergo debet fieri post hanc vita <pc ana="#virgula"/> ergo anima superstes 
-					<lb ed="#P"/>erit post mortem<pc ana="#punctus"/> Hoc argumentum testatur <name>Clemens
-					<lb ed="#P"/>Alexandrinus</name> liber 3 <pc ana="#punctus"/> se ex ore <name ref="#Peter">Sancti Petri</name> audiuisse <pc ana="#punctus"/>
+					<lb ed="#P"/>improbi terrena felicitate abundent probi enim mi<pc ana="#dbslash"/><lb ed="#P"/>seria 
+					<pc ana="#virgula"/> ergo debet fieri post hanc vita <pc ana="#virgula"/> ergo anima superstes 
+					<lb ed="#P"/>erit post mortem<pc ana="#punctus"/> Hoc argumentum testatur <name ref="#Clement of Alendria">Clemens
+					<lb ed="#P"/>Alexandrinus</name> liber 3<pc ana="#punctus"/> se ex ore <name ref="#Peter">Sancti Petri</name> audiuisse <pc ana="#punctus"/>
 				</p>
 				<p>
-					<lb ed="#P"/>Secundo simili demonstratione: Sed insatiabilis appetitus ae
-					<lb ed="#P"/>ternitatis cui libet homini insitus <pc ana="#punctus"/> Item responsus et vene <pc ana="#virgula"/> 
-					<lb ed="#P"/>ratio Numinis alicuius superioris cum secreto quodam re <pc ana="#virgula"/>
-					<lb ed="#P"/>morsu consciae si id contemnatur ob timore poenae <pc ana="#punctus"/> 
-					<lb ed="#P"/>haec enim nisi essent si anima mortalis esset <pc ana="#punctus"/> Non enim ap <pc ana="#virgula"/> 
-					<lb ed="#P"/>peteret quod impossibile sciret <pc ana="#punctus"/> neque adeo poenam time
-					<lb ed="#P"/>ret <pc ana="#virgula"/> quam morte aeternum vitare posset<pc ana="#punctus"/>
+					<lb ed="#P"/>Secundo simili demonstratione: Sed insatiabilis appetitus ae<lb ed="#P"/>ternitatis
+					cui libet homini insitus<pc ana="#punctus"/> Item responsus et vene <pc ana="#dbslash"/><lb ed="#P"/>ratio 
+					Numinis alicuius superioris cum secreto quodam re<pc ana="#dbslash"/><lb ed="#P"/>morsu 
+					consciae si id contemnatur ob timore poenae <pc ana="#punctus"/> 
+					<lb ed="#P"/>haec enim nisi essent si anima mortalis esset <pc ana="#punctus"/> Non enim ap<pc ana="#dbslash"/><lb ed="#P"/>peteret
+					quod impossibile sciret<pc ana="#punctus"/> neque adeo poenam time<pc ana="#dbslash"/><lb ed="#P"/>ret
+					<pc ana="#virgula"/> quam morte aeternum vitare posset<pc ana="#punctus"/>
 				</p>
-				<p>3 <pc ana="#punctus"/> demonstratione naturali: Substantia spiritualis per se subsistens 
+				<p>
+					<lb ed="#P"/>3<pc ana="#punctus"/> demonstratione naturali: Substantia spiritualis per se subsistens 
 					<lb ed="#P"/>est immortalis <pc ana="#virgula"/> anima humana est eiusmodi substantia ergo. 
-					<lb ed="#P"/>Maior patet primo quod sit substantia ominum consensu <pc ana="#punctus"/> Secundo quod sit 
-					<lb ed="#P"/>spiritualis tum ex operationibus intellectus <pc ana="#virgula"/> quia ratiocinamur cir <pc ana="#virgula"/> 
-					<lb ed="#P"/>ca spiritualia quae nullo sensu percepimus. Item circa 
-					<lb ed="#P"/>fictitia quae nec <unclear>sb?</unclear> nec esse <unclear>pnt?</unclear>. Est a<pc ana="#punctus-medius"/> clarum
-					<lb ed="#P"/>positam materialem non nisi materiales operationes circa obiectum
-					<lb ed="#P"/>materiale habere posse: Tum ex operationibus voluntatis qui super <pc ana="#virgula"/>  
-					<lb ed="#P"/>naturalia neglectis omnibus ceteris appetitibus quod maa <pc ana="#virgula"/> 
-					<lb ed="#P"/>lis posita nisi post <pc ana="#virgula"/> ergo principium intelligendi et volendi est
-				<pb ed="#W" n="214"/>
+					<lb ed="#P"/>Maior patet primo quod sit substantia ominum consensu <pc ana="#punctus"/> Secundo <pc ana="#punctus"/> quod sit 
+					<lb ed="#P"/>spiritualis tum ex operationibus intellectus <pc ana="#virgula"/> quia ratiocinamur cir<pc ana="#dbslash"/><lb ed="#P"/>ca
+					spiritualia quae nullo sensu percepimus. Item circa 
+					<lb ed="#P"/>fictitia quae nec sub nec esse <unclear>pnt?</unclear>. Est a<pc ana="#punctus-medius"/> clarum
+					<lb ed="#P"/>potentiam materialem non nisi materiales operationes circa obiectum
+					<lb ed="#P"/>materiale habere posse: Tum ex operationibus voluntatis qui super<pc ana="#dbslash"/><lb ed="#P"/>naturalia 
+					neglectis omnibus ceteris appetitibus quod maa<pc ana="#dbslash"/><lb ed="#P"/>lis 
+					potentia nisi post<pc ana="#virgula"/> ergo principium intelligendi et volendi est
+				<pb ed="#P" n="214"/>
 					<lb ed="#P"/>immateriale et spirituale <pc ana="punctus"/> 3 <pc ana="#punctus"/> Quod sit per se subsistens 
 					<lb ed="#P"/>patet inde quia anima rationalis nisi post accipere exsistentiam 
-					<lb ed="#P"/>ab aliquo materiali cum iam probatrem sit ipsam esse spiritua <pc ana="#virgula"/>  
-					<lb ed="#P"/>lem <pc ana="#virgula"/> ergo existentia anima et ab nulla causa materiali depen <pc ana="#virgula"/>  
-					<lb ed="#P"/>det <pc ana="#virgula"/> ergo est per se subsistens <pc ana="#punctus"/> Id enim quod ita habet ex <pc ana="#virgula"/> 
-					<lb ed="#P"/>istiam ab causa materiali independentem ex sua natura
+					<lb ed="#P"/>ab aliquo materiali cum iam probatrem sit ipsam esse spiritua<pc ana="#dbslash"/><lb ed="#P"/>lem 
+					<pc ana="#virgula"/> ergo existentia animae et ab nulla causa materiali depen<pc ana="#dbslash"/><lb ed="#P"/>det 
+					<pc ana="#virgula"/> ergo est per se subsistens<pc ana="#punctus"/> Id enim quod ita habet ex<pc ana="#dbslash"/><lb ed="#P"/>istiam 
+					ab causa materiali independentem ex sua natura
 					<lb ed="#P"/>est incorruptibile <pc ana="#punctus"/> quia pereuntibus quondam materialia sub nihil 
-					<lb ed="#P"/>illi aufertur necrium ad existendus <pc ana="punctus"/> Pluribus 
-					<lb ed="#P"/>idem argumentum deducunt <unclear>Conimb.</unclear> disputatio 1 <pc ana="#punctus"/> de anima 
-					<lb ed="#P"/>separata <pc ana="#punctus"/> Sanem etsi forte in bis demonstrationibus
-					<lb ed="#P"/>nisi omnes quid <name>iohanes</name> <unclear>?giae</unclear> reperiantur <pc ana="#virgula"/> convincunt penetran <pc ana="#virgula"/> 
-					<lb ed="#P"/>tem <unclear>terminos?</unclear> ut contrariae opinioni assentiri nequeat <pc ana="#virgula"/> 
-					<lb ed="#P"/>et constat inde quod per ipsas plerique Philosophi ethnici ex <pc ana="#virgula"/>  
-					<lb ed="#P"/>ceplis <name>Epicureis</name> immortalitatem animae cognoverint 
-					<lb ed="#P"/>cum primis <name>Platonici</name> <pc ana="#punctus"/> Dixi in titulo Seclu <pc ana="#virgula"/>  
-					<lb ed="#P"/>sa fide nam hac absque ullo dubio credimus aram 
+					<lb ed="#P"/>illi aufertur necrium ad existendum<pc ana="punctus"/> Pluribus 
+					<lb ed="#P"/>idem argumentum deducunt <unclear>Conimb.</unclear> disputatio 1<pc ana="#punctus"/> de anima 
+					<lb ed="#P"/>separata<pc ana="#punctus"/> Sanem etsi forte in bis demonstrationibus
+					<lb ed="#P"/>nisi omnes quid <name>iohanes</name> <unclear>?giae</unclear> reperiantur<pc ana="#virgula"/> convincunt penetran<pc ana="#dbslash"/><lb ed="#P"/>tem 
+					<unclear>terminos[?]</unclear> ut contrariae opinioni assentiri nequeat<pc ana="#virgula"/> 
+					<lb ed="#P"/>et constat inde quod per ipsas plerique Philosophi ethnici ex<pc ana="#dbslash"/><lb ed="#P"/>ceplis 
+					<name ref="#Epicurus">Epicureis</name> immortalitatem animae cognoverint 
+					<lb ed="#P"/>cum primis <name ref="Plato">Platonici</name><pc ana="#punctus"/> Dixi in titulo Seclu <pc ana="#dbslash"/><lb ed="#P"/>sa 
+					fide nam hac absque ullo dubio credimus aram 
 					<lb ed="#P"/>immortalem cum ex alys locis Sanctae Scripturae cum illo: 
 					<lb ed="#P"/>Qui edit aiam suam in hoc mundo in vita aeternam
-					<lb ed="#P"/>custodit eam <pc ana="#punctus"/> Et illo: Nolite timere eos qui oc <pc ana="#virgula"/> 
-					<lb ed="#P"/>cidunt Corpus <pc ana="#punctus"/> Et illo <name>Paulli</name> 1 <pc ana="#pucntus"/> ad Corinthians 15 
+					<lb ed="#P"/>custodit eam <pc ana="#punctus"/> Et illo: Nolite timere eos qui oc <pc ana="#dbslash"/><lb ed="#P"/>cidunt 
+					Corpus <pc ana="#punctus"/> Et illo <name ref="#Paul">Paulli</name> 1 <pc ana="#pucntus"/> ad Corinthians 15 
 					<lb ed="#P"/><quote>si in hac vita tantum sperantes sumus miserabiliores 
-					<lb ed="#P"/>sumus orbus hominibus</quote> <pc ana="#punctus"/>
+					<lb ed="#P"/>sumus orbus hominibus</quote><pc ana="#punctus"/>
 				</p>
-				<p>Fuit olim consilio an anima sit immortalis ex propria 
-					<lb ed="#P"/>natura <pc ana="#virula"/> an ex peculiari gratia Dei <pc type="#punctus-interrogativus">?</pc> Nunc artus 
-					<lb ed="#P"/>est esse immortales ex <unclear>intrnca</unclear> natura <pc ana="#virgula"/> Non quod im<pc ana="#virgula"/>
-				<pb ed="#W" n="215"/>
-					<lb ed="#P"/>mortalitas anima nisi sit domini Dei sine quo nec 
+				<p>
+					<lb ed="#P"/>Fuit olim consilio an anima sit immortalis ex propria 
+					<lb ed="#P"/>natura<pc ana="#virula"/> an ex peculiari gratia Dei <pc type="#punctus-interrogativus">?</pc> Nunc artus 
+					<lb ed="#P"/>est esse immortales ex <unclear>intrnca</unclear> natura<pc ana="#virgula"/> Non quod im<pc ana="#virgula"/><pb ed="#P" n="215"/><lb ed="#P"/>mortalitas 
+					anima nisi sit domini Dei sine quo nec 
 					<lb ed="#P"/>esset anima, sed quod posito quod anima acceperit naturale 
 					<lb ed="#P"/>Esse ab Deo sit hac ipso immortalis absque novo 
-					<lb ed="#P"/>Dei dono obverso ab eo quo Esse accepit. SS? [Superscripti/Sanctissimi?] 
-					<lb ed="#P"/>Patres saepe dicunt animam esse immortalem ex gratia divi<pc ana="#virgula"/> 
-					<lb ed="#P"/>na nisi ex se, sed nihil aliud volunt quam solum 
-					<lb ed="#P"/>Deum esse immortalem ab se, <unclear>seliua</unclear> quia immortalia 
-					<lb ed="#P"/>sed habere ab Deo, ex se esse mortale. id est ab deo pos<pc ana="#virgula"/> 
-					<lb ed="#P"/>se destrui si velit. 
-					<lb ed="#P"/>[Missing Title of next section]
-					<lb ed="#P"/>Suppono differre essentialiter <unclear>Angelum</unclear> et Animam cum ille 
-					<lb ed="#P"/>sit substantia conplete <pc ana="#virgula"/> anima incompleta. 
-					<lb ed="#P"/>Responsio negative <pc ana="#punctus"/> Ratio est <pc ana="#punctus"/> quia substantia conplete perfectior 
+					<lb ed="#P"/>Dei dono obverso ab eo quo Esse accepit. <unclear>SS [Superscripti/Sanctissimi?]</unclear>
+					<lb ed="#P"/>Patres saepe dicunt animam esse immortalem ex gratia divi<pc ana="#dbslash"/><lb ed="#P"/>na 
+					nisi ex se <pc ana="#virgula"/> sed nihil aliud volunt quam solum 
+					<lb ed="#P"/>Deum esse immortalem ab se <pc ana="#virgula"/> <unclear>selqiua[?]</unclear> quia immortalia 
+					<lb ed="#P"/>sed habere ab Deo, ex se esse mortale <pc ana="#punctus"/> id est ab Deo pos<pc ana="#dbslash"/><lb ed="#P"/>se 
+					destrui si velit<pc ana="#punctus"/>
+					<lb ed="#P"/>[Missing Title of next section - Blank space of approximately 4 lines.]
+				</p>
+				<p>
+					<lb ed="#P"/>Suppono differre essentialiter Angelum et Animam cum ille 
+					<lb ed="#P"/>sit substantia completa <pc ana="#virgula"/> anima incompleta. 
+				</p>
+				<p>
+					<lb ed="#P"/>Responsio negative<pc ana="#punctus"/> Ratio est<pc ana="#virgula"/> quia substantia conplete perfectior 
 					<lb ed="#P"/>est quam incompleta si in ceteris conveniant <pc ana="#punctus"/> Angelus 
-					<lb ed="#P"/>et anima conveniunt in eo quod sunt substantia spirituales il <pc ana="#virgula"/> 
-					<lb ed="#P"/>le terminae <name>Christi</name> in genere substantiae spirituales perfectiores sunt 
+					<lb ed="#P"/>et anima conveniunt in eo quod sunt substantia spirituales intel<pc ana="#virgula"/><lb ed="#P"/>lectivae 
+					<name ref="#Christ">Christi</name> in genere substantiae spirituales perfectiores sunt 
 					<lb ed="#P"/>Angeli <pc ana="#punctus"/> 
 				</p>
-				<p>Dices <pc ana="#punctus"/> 1 <pc ana="#punctus"/> ergo Anima <name>Christi</name> Domini aut et <name>Benedicta Virgo</name> 
-					<lb ed="#P"/>nisi fuerunt nobiliores ulli Angelo. 
+				<p>
+					<lb ed="#P"/>Dices<pc ana="#punctus"/> 1<pc ana="#punctus"/> ergo Anima <name ref="#Christ">Christi Domini</name> aut et <name ref="#Mary">Benedicta Virgo</name> 
+					<lb ed="#P"/>nisi fuerunt nobiliores ulli Angelo<pc ana="#punctus"/> 
 				</p>
-				<p>Responsa secundum naturam non fuerunt nobiliores, sed 
-					<lb ed="#P"/>bene secundem gratiam qua cumulatissime abundabant. 
+				<p>
+					<lb ed="#P"/>Responsa secundum naturam non fuerunt nobiliores<pc ana="#virgula"/> sed 
+					<lb ed="#P"/>bene secundem gratiam qua cumulatissime abundabant<pc ana="#punctus"/>
 				</p>
-				<p>Dices <pc ana="punctus"/> 2 <pc ana="punctus"/> quia monstrat minor est, Angeli custodes 
-					<lb ed="#P"/> <unclear>monstravit</unclear> <name>Arabus</name> <pc ana="#punctus"/> 
+				<p>
+					<lb ed="#P"/>Dices<pc ana="punctus"/> 2<pc ana="punctus"/> quia monstrat minor est<pc ana="#virgula"/> Angeli custodes 
+					<lb ed="#P"/>monstravit <name>Arabus</name><pc ana="#punctus"/> 
 				</p>
-				<p><pb ed="#W" n="216"/> <lb ed="#P"/>Responsa ad M <pc ana="punctus"/> minor est in conditione qua Maior est <pc ana="#punctus"/> 
-					<lb ed="#P"/>transeat <pc ana="punctus"/> in natura <pc ana="#punctus"/>  nego <pc ana="#punctus"/> Sanem <name>Christus </name> Dominus monstrare 
-					<lb ed="#P"/>venit perfectior tamen fuit quam quibus monstravit <pc ana="#punctus"/>
+				<pb ed="#P" n="216"/> 
+				<p>
+					<lb ed="#P"/>Responsa ad Maior minor est in conditione qua Maior est<pc ana="#virgula"/> 
+					<lb ed="#P"/>transeat<pc ana="virgula"/> in natura<pc ana="#virgula"/> nego<pc ana="#punctus"/> Sanem <name ref="#Christ">Christus Dominus</name> monstrare 
+					<lb ed="#P"/>venit perfectior tamen fuit quam quibus monstravit<pc ana="#punctus"/>
 				</p>
-				<p><lb ed="#P"/>Dices 3 <pc ana="#punctus"/> eaedem sub proprietates Animae et Angeli 
+				<p>
+					<lb ed="#P"/>Dices 3 <pc ana="#punctus"/> eaedem sub proprietates Animae et Angeli 
 					<lb ed="#P"/>ille loquitur voluntas potentia locomotiva praeter quas nul<pc ana="#virgula"/><lb ed="#P"/>las 
-						habet ergo sub eiusdem naturae. 
+						habet ergo sub eiusdem naturae <pc ana="#punctus"/> 
 				</p>
-				<p><lb ed="#P"/>Si ille <unclear>lq</unclear>" horum et Angelorum specie differt <pc ana="punctus"/> ut est 
-					<lb ed="#P"/><unclear>coior?</unclear> opinio argentum nihil valet <pc ana="#punctus"/> quia <unclear>Ants?</unclear> est ver <pc ana="#virgula"/> 
-					<lb ed="#P"/>rum de iisdem contrarie <pc ana="#punctus"/> nisi specie <pc ana="#punctus"/> Si enim nisi differunt <pc ana="#punctus"/>
-				</p>
-				<p><lb ed="#P"/>Responsa etsi ex his proprietatibus nisi colligar essentia <pc ana="#virgula"/> 
-					<lb ed="#P"/>lis diversitas illarum substantiarum <pc ana="#punctus"/> colligi tamen ex Esse 
+				<p>
+					<lb ed="#P"/>Si ille loquitur horum et Angelorum specie differt <pc ana="virgula"/> ut est 
+					<lb ed="#P"/><unclear>coior?</unclear> opinio argentum nihil valet <pc ana="#virgula"/> quia <unclear>Antecedentis?</unclear> est ve<pc ana="#dbslash"/><lb ed="#P"/>rum 
+					de iisdem contrarie<pc ana="#virgula"/> nisi specie<pc ana="#punctus"/> Si enim nisi differunt <pc ana="#punctus"/> 
+				</p> 
+				<p>
+					<lb ed="#P"/>Responsa etsi ex his proprietatibus nisi colligar essentia <pc ana="#dbslash"/><lb ed="#P"/>lis 
+					diversitas illarum substantiarum<pc ana="#virgula"/> colligi tamen ex Esse 
 					<lb ed="#P"/>conpleto et inconpleto quorum illud habent Angeli hoc Anima <pc ana="#punctus"/> 
 					<lb ed="#P"/>Easdem enim specie proprietates prodire ab diversis <unclear>feris?</unclear> 
-					<lb ed="#P"/>nisi est insolitum <pc ana="#punctus"/> quia <unclear>poia?</unclear> videndi <pc ana="#punctus"/> audiendi <pc ana="#punctus"/> ab di <pc ana="#virgula"/> 
-					<lb ed="#P"/>verissimis <name>arabus</name> provenit <pc ana="#punctus"/> An ut specie differant 
-					<lb ed="#P"/>illi ille <unclear>lq</unclear> <unclear>infra?</unclear> <unclear>dicer?</unclear> <pc ana="#punctus"/>	
+					<lb ed="#P"/>nisi est insolitum <pc ana="#punctus"/> quia potentia videndi <pc ana="#virgula"/> audiendi <pc ana="#virgula"/> ab di <pc ana="#virgula"/><lb ed="#P"/> 
+					verissimis <unclear>arabus[?]</unclear> provenit<pc ana="#punctus"/> An enim specie differant 
+					<lb ed="#P"/>illi ille loquitur <unclear>infra[?]</unclear> <unclear>dicere[?]</unclear><pc ana="#punctus"/>
 				</p>
-
-		
+				<p>
+					<lb ed="#P"/>[Missing Title of Next Section - Space of approximately 7 lines here]
+					<lb ed="#P"/>Dico substantiali <pc ana="#virgula"/> quia dei[?] Ac entali nisi est dubius <pc ana="#punctus"/> Una enim 
+					<lb ed="#P"/>est in gratia <pc ana="#virgula"/> altera sine gratia <pc ana="#punctus"/> Una erudita Altera In<pc ana="#dbslash"/><lb ed="#P"/><pb ed="#P" n="217"/>docta 
+					<name ref="#Christ">Christus</name> <pc ana="#punctus"/> Quaerit ergo an Una excedat alteram aliqua 
+					<lb ed="#P"/>perfectione quia sit entitas substantialis sub specie Animae inu<pc ana="#dbslash"/><lb ed="#P"/>mero
+					tamen Inversa ab perfectione alterius animae <pc ana="#virgula"/> ita tamen 
+					<lb ed="#P"/>ut nisi solo numero suae entitatis sed et maiori 
+					<lb ed="#P"/>perfectione eiusdem alteram vincat<pc ana="#punctus"/> Certum est in specie 
+					<lb ed="#P"/>omnes animas rationales esse pares quoad individua est<pc ana="#punctus"/>
+				</p>
+				<p>
+					<lb ed="#P"/> Responsa omnes et aequales esse<pc ana="#punctus"/> Explico et probo<pc ana="#punctus"/> Con<pc ana="#dbslash"/><lb ed="#P"/>veniunt 
+					omnes totam entitatem singularem <unclear>huius[?]</unclear> animae esse 
+					<lb ed="#P"/>eiusdem specie cum tota substantia illius animae<pc ana="#virgula"/> sed quondam dicunt 
+					<lb ed="#P"/>substantiam singularem huius aliquod habere <unclear>eui</unclear> simile in essentia 
+					<lb ed="#P"/>habeat <unclear>quousque?</unclear> illa anima<pc ana="#virgula"/> sed nisi aeque perfectum sub eadem 
+					<lb ed="#P"/>specie<pc ana="#virgula"/> simili aliquo <unclear>innumero?</unclear> quo duae albedines inaequaliter 
+					<lb ed="#P"/>intensa inaequaliter perfectae sub<pc ana="#punctus"/> Hoc enim admittere 
+					<lb ed="#P"/>nisi primus <pc ana="#punctus"/> 1[?] <pc ana="#punctus"/> quia sic substantia suscipiet magis et minus nec 
+					<lb ed="#P"/>valet quod retorquent animam <unclear>hois[?]</unclear> esse magis perfectam 
+					<lb ed="#P"/>quam animam <unclear>leonis.[?]</unclear> ac proinde et in natura sententia debere 
+					<lb ed="#P"/>suscipe magis et minus<pc ana="#punctus"/> quia hic nisi fit comparatio in eadem 
+					<lb ed="#P"/>specie<pc ana="#virgula"/> proprie ab magis et minus suscipere est sub eadem 
+					<lb ed="#P"/>perfectione essentiali plus <unclear>l.</unclear> minus habere<pc ana="#punctus"/>
+				</p>
+				<p>2<pc ana="#punctus"/> quia 
+					<lb ed="#P"/>si datur unius animae profectio maior ea nisi distinguatur ab 
+					<lb ed="#P"/>differentia individuali per illam ipsam enim perfectionem intelligenter 
+					<lb ed="#P"/>anima distincta ab illa numero anima<pc ana="#virgula"/> consequenter per<pc ana="#dbslash"/><lb ed="#P"/>fectio
+					illa erit differentia Individualis: Ab differentiae 
+					<lb ed="#P"/>individuales in nullo alio genere substantia sient in<pc ana="#dbslash"/><lb ed="#P"/>aequalis 
+					perfectionis sub eadem specie ut constat inductio<pc ana="#dbslash"/><lb ed="#P"/>ne 
+					et probatur quia alias in infinitum anima bruti <unclear>connrata[?]</unclear>
+				<pb ed="#P" n="218"/> 
+					<lb ed="#P"/>imperfectior est anima <unclear>connrantis[?]</unclear> quia ut vult Ad<pc ana="#dbslash"/><lb ed="#P"/>versarius 
+					nisi est aequaliter perfecta<pc ana="#virgula"/> sed nisi patet fieri ma<pc ana="#virgula"/><lb ed="#P"/>gis 
+					perfecta ut per se constat<pc ana="#virgula"/> ergo erit minus perfecta<pc ana="#virgula"/> et 
+					<lb ed="#P"/>sic millesimus enim ergo leo mille perfectionibus inferior 
+					<lb ed="#P"/>erit primo leone<pc ana="#virgula"/> ergo nec differentiae individuae animae 
+					<lb ed="#P"/>rationalis sub inaequalis perfectionis<pc ana="#punctus"/> Adde alias idem 
+					<lb ed="#P"/><unclear>dicendum[?]</unclear> <unclear>dei[?]</unclear> <unclear>Accentibus[?]</unclear><pc ana="#punctus"/> Nam praeter intensionem graduum habet 
+					<lb ed="#P"/>albedo differentiam suam individualem per quam est haec albedo 
+					<lb ed="#P"/>si ergo diversae differentiae individuales sed inaequalis per<pc ana="#dbslash"/><lb ed="#P"/>fectionis 
+					sequetur albedines aequaliter intensas nisi esse sub 
+					<lb ed="#P"/>eadem specie aequaliter perfectas<pc ana="#punctus"/> 
+				</p>
+				<p>
+					<lb ed="#P"/>Dices 1<pc ana="#punctus"/> Operatio unius animae perfectior est <unclear>quam/qualia[?]</unclear>alterius 
+					<lb ed="#P"/>unus enim homo perfectius intelligit iudicat <unclear>x(below line)</unclear> altero<pc ana="#virgula"/> ergo anima 
+					<lb ed="#P"/>est perfectior altera<pc ana="#punctus"/>
+				</p>
+				<p>
+					<lb ed="#P"/>Nego consequiam<pc ana="#virgula"/> quia ad operatores animae et intellectivas in 
+					<lb ed="#P"/>hac vita nisis <unclear>requiritur[?]</unclear> sola anima<pc ana="#virgula"/> sed et dispositio cor<pc ana="#dbslash"/><lb ed="#P"/>poris 
+					principeue organorum interiorum sensuum<pc ana="#virgula"/> Necesse 
+					<lb ed="#P"/>est ergo quod ubi dispositio corporis imperfectior est imper<pc ana="#dbslash"/><lb ed="#P"/>fectior
+					operatio <unclear>sequar[?]</unclear><pc ana="#virgula"/> et ubi perfectior est<pc ana="#virgula"/> operatio evadat 
+					<lb ed="#P"/> perfectior et cum aequales sub animae<pc ana="#punctus"/> Unus ergo melioris in<pc ana="#dbslash"/><lb ed="#P"/>genii 
+					est altero ob meliorem animam<pc ana="#punctus"/> Sanem bonitas ingenii in eodem 
+					<lb ed="#P"/><unclear>hodie[?]</unclear> nisi est semper aequalis sed per morbum subinde vitiatur<pc ana="#virgula"/> 
+					<lb ed="#P"/>ergo ex eius diversitate malem infertur diversitas 
+					<lb ed="#P"/>animae<pc ana="#punctus"/>
+				</p>
+				<p>
+					<lb ed="#P"/>Dices 2<pc ana="#punctus"/> perfectiores dispositiones perfectiorem exi<pc ana="dbslash"/><pb ed="#P" n="219"/><lb ed="#P"/>gunt 
+					<unclear>fram[?]</unclear><pc ana="#virgula"/> sed unum corpus et fatemur est altero 
+					<lb ed="#P"/>perfectius dispositum ergo perfectiorem exigit animam rationalem<pc ana="#punctus"/> 
+					<lb ed="#P"/>Confirmatur alias anima <name ref="#Paul">Petri</name> aeque potiusset uniri 
+					<lb ed="#P"/>corpori <name ref="#Paul">Paulli</name> inaequaliter disposito<pc ana="#punctus"/>
+				</p>
+				<p>
+					<lb ed="#P"/>Verum haec confirmatio nihil absurdi infert<pc ana="#virgula"/> quia 
+					<lb ed="#P"/>anima rationalis sub disiunctione respicit quamlibet 
+					<lb ed="#P"/>materiam ad <unclear>fram[?]</unclear> humanam sufferenter dispositam<pc ana="#punctus"/> Determinatio 
+					<lb ed="#P"/>a <pc ana="#punctus-medius"/> ad hanc 1<pc ana="#punctus"/> illam fit ab Deo sicut et creatio animae<pc ana="#punctus"/>
+				</p>
 			</div>	
 		</body>
 	</text>
