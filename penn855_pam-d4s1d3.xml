@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/0.0/diplomatic/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/0.0/diplomatic/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Disputatio IV, Sectio 1, Difficultas III [Penn855 Transcription]</title>
+				<author>Placidus Aegidius Melander</author>
+				<editor>Daniel </editor>
+			</titleStmt>
+			<editionStmt>
+				<edition n="0.0.0-dev">
+					<title>Disputatio IV, Sectio 1, Difficultas III [Penn855 Transcription]</title>
+					<date when="2016-10-14">OCt 14, 2016</date>
+				</edition>
+			</editionStmt>
+			<publicationStmt>
+				<publisher>Lombard Press</publisher>
+				<pubPlace>Baltimore, MD</pubPlace>
+				<availability status="free">
+					<p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref></p>
+				</availability>
+				<date when="2016-10-14">Oct 14, 2016</date>  
+			</publicationStmt>
+			<sourceDesc>
+				<listWit>
+					<witness xml:id="P" n="penn855">Philadelphia, University of Pennyslvania, ms. codex 855</witness>
+				</listWit>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="draft">
+			<listChange>
+				<change when="2016-10-14" who="#JW" status="draft" n="0.0.0-dev">
+					<p>Created file for the first time.</p>
+					<note type="status">
+						<note type="collobaration">Yes</note>
+						<note type="validating-schema">lbp-0.0.1</note>
+						<note type="transcription-type">documentary</note>
+					</note>
+				</change>
+			</listChange>
+		</revisionDesc>
+	</teiHeader>
+	
+	<text xml:lang="la">
+		<front>
+			<div xml:id="includeList">
+				<xi:include href="https://bitbucket.org/lombardpress/lombardpress-lists/raw/master/workscited.xml" xpointer="worksCited"/>
+				<xi:include href="https://bitbucket.org/lombardpress/lombardpress-lists/raw/master/Prosopography.xml" xpointer="prosopography"/>
+			</div>
+			<div type="startsOn">
+				<pb ed="#P" n="216"/>
+			</div>
+		</front>
+		<body>
+			<div xml:id="pam-d4s1d3">
+				<head>Disputatio IV, Sectio 1, Difficultas III [Penn855 Transcription]</head>
+				<!--Space for header here - 7 lines - Text missing -->
+				<p>
+					<lb ed="#P"/>Dico substantiali<pc ana="#virgula"/> quia dei[?] Ac entali nisi est dubius <pc ana="#punctus"/> Una enim 
+					<lb ed="#P"/>est in gratia <pc ana="#virgula"/> altera sine gratia<pc ana="#punctus"/> Una erudita Altera In<pc ana="#dbslash"/><lb ed="#P"/><pb ed="#P" n="217"/>docta 
+					<name ref="#Christ">Christi</name><pc ana="#punctus"/> Quaerit ergo an Una excedat alteram aliqua 
+					<lb ed="#P"/>perfectione quia sit entitas substantialis sub specie Animae inu<pc ana="#dbslash"/><lb ed="#P"/>mero
+					tamen Inversa ab perfectione alterius animae <pc ana="#virgula"/> ita tamen 
+					<lb ed="#P"/>ut nisi solo numero suae entitatis sed et maiori 
+					<lb ed="#P"/>perfectione eiusdem alteram vincat<pc ana="#punctus"/> Certum est in specie 
+					<lb ed="#P"/>omnes animas rationales esse pares quoad individua est<pc ana="#punctus"/>
+				</p>
+				<p>
+					<lb ed="#P"/> Responsa omnes et aequales esse<pc ana="#punctus"/> Explico et probo<pc ana="#punctus"/> Con<pc ana="#dbslash"/><lb ed="#P"/>veniunt 
+					omnes totam entitatem singularem huius animae esse 
+					<lb ed="#P"/>eiusdem specie cum tota substantia illius animae<pc ana="#virgula"/> sed quondam dicunt 
+					<lb ed="#P"/>substantiam singularem huius aliquod habere <unclear>eui[?]</unclear> simile in essentia 
+					<lb ed="#P"/>habeat quoque illa anima<pc ana="#virgula"/> sed nisi aeque perfectum sub eadem 
+					<lb ed="#P"/>specie<pc ana="#virgula"/> simili aliquo <unclear>innumero?</unclear> quo duae albedines inaequaliter 
+					<lb ed="#P"/>intensa inaequaliter perfectae sub<pc ana="#punctus"/> Hoc enim admittere 
+					<lb ed="#P"/>nisi primus <pc ana="#punctus"/> 1[?] <pc ana="#punctus"/> quia sic substantia suscipiet magis et minus nec 
+					<lb ed="#P"/>valet quod retorquent animam hominis esse magis perfectam 
+					<lb ed="#P"/>quam animam leonis<pc ana="#punctus"/> ac proinde et in natura sententia debere 
+					<lb ed="#P"/>suscipere magis et minus<pc ana="#punctus"/> quia hic nisi fit comparatio in eadem 
+					<lb ed="#P"/>specie<pc ana="#virgula"/> proprie ab magis et minus suscipere est sub eadem 
+					<lb ed="#P"/>perfectione essentiali plus <unclear>l.</unclear> minus habere<pc ana="#punctus"/>
+				</p>
+				<p>2<pc ana="#punctus"/> quia 
+					<lb ed="#P"/>si datur unius animae profectio maior ea nisi distinguitur ab 
+					<lb ed="#P"/>differentia individuali per illam ipsam enim perfectionem intelligenter 
+					<lb ed="#P"/>anima distincta ab illa numero anima<pc ana="#virgula"/> consequenter per<pc ana="#dbslash"/><lb ed="#P"/>fectio
+					illa erit differentia Individualis: Ab differentiae 
+					<lb ed="#P"/>individuales in nullo alio genere substantia sient in<pc ana="#dbslash"/><lb ed="#P"/>aequalis 
+					perfectionis sub eadem specie ut constat inductio<pc ana="#dbslash"/><lb ed="#P"/>ne 
+					et probatur quia alias in infinitum anima bruti generata
+					<pb ed="#P" n="218"/> 
+					<lb ed="#P"/>imperfectior est anima generantis quia ut vult Ad<pc ana="#dbslash"/><lb ed="#P"/>versarius 
+					nisi est aequaliter perfecta<pc ana="#virgula"/> sed nisi patet fieri ma<pc ana="#virgula"/><lb ed="#P"/>gis 
+					perfecta ut per se constat<pc ana="#virgula"/> ergo erit minus perfecta<pc ana="#virgula"/> et 
+					<lb ed="#P"/>sic millesimus enim ergo leo mille perfectionibus inferior 
+					<lb ed="#P"/>erit primo leone<pc ana="#virgula"/> ergo nec differentiae individuae animae 
+					<lb ed="#P"/>rationalis sub inaequalis perfectionis<pc ana="#punctus"/> Adde alias idem 
+					<lb ed="#P"/><unclear>dicendum[?]</unclear> <unclear>de[?]</unclear> <unclear>Accentibus[?]</unclear><pc ana="#punctus"/> Nam praeter intensionem graduum habet 
+					<lb ed="#P"/>albedo differentiam suam individualem per quam est haec albedo 
+					<lb ed="#P"/>si ergo diversae differentiae individuales sed inaequalis per<pc ana="#dbslash"/><lb ed="#P"/>fectionis 
+					sequetur albedines aequaliter intensas nisi esse sub 
+					<lb ed="#P"/>eadem specie aequaliter perfectas<pc ana="#punctus"/> 
+				</p>
+				<p>
+					<lb ed="#P"/>Dices 1<pc ana="#punctus"/> Operatio unius animae perfectior est <unclear>quam/quamquam[?]</unclear>alterius 
+					<lb ed="#P"/>unus enim homo perfectius intelligit iudicat <unclear>x(below line)</unclear> altero<pc ana="#virgula"/> ergo anima 
+					<lb ed="#P"/>est perfectior altera<pc ana="#punctus"/>
+				</p>
+				<p>
+					<lb ed="#P"/>Nego consequiam<pc ana="#virgula"/> quia ad operatores animae et intellectivas in 
+					<lb ed="#P"/>hac vita nisis requiritur sola anima<pc ana="#virgula"/> sed et dispositio cor<pc ana="#dbslash"/><lb ed="#P"/>poris 
+					principeue organorum interiorum sensuum<pc ana="#virgula"/> Necesse 
+					<lb ed="#P"/>est ergo quod ubi dispositio corporis imperfectior est imper<pc ana="#dbslash"/><lb ed="#P"/>fectior
+					operatio sequatur<pc ana="#virgula"/> et ubi perfectior est<pc ana="#virgula"/> operatio evadat 
+					<lb ed="#P"/> perfectior et cum aequales sub animae<pc ana="#punctus"/> Unus ergo melioris in<pc ana="#dbslash"/><lb ed="#P"/>genii 
+					est altero ob meliorem animam<pc ana="#punctus"/> Sane bonitas ingenii in eodem 
+					<lb ed="#P"/>homine nisi est semper aequalis sed per morbum subinde vitiatur<pc ana="#virgula"/> 
+					<lb ed="#P"/>ergo ex eius diversitate malem infertur diversitas 
+					<lb ed="#P"/>animae<pc ana="#punctus"/>
+				</p>
+				<p>
+					<lb ed="#P"/>Dices 2<pc ana="#punctus"/> perfectiores dispositiones perfectiorem exi<pc ana="dbslash"/><pb ed="#P" n="219"/><lb ed="#P"/>gunt 
+					formam<pc ana="#virgula"/> sed unum corpus et fatemur est altero 
+					<lb ed="#P"/>perfectius dispositum ergo perfectiorem exigit animam rationalem<pc ana="#punctus"/> 
+					<lb ed="#P"/>Confirmatur alias anima <name ref="#Paul">Petri</name> aeque potiusset uniri 
+					<lb ed="#P"/>corpori <name ref="#Paul">Paulli</name> inaequaliter disposito<pc ana="#punctus"/>
+				</p>
+				<p>
+					<lb ed="#P"/>Verum haec confirmatio nihil absurdi infert<pc ana="#virgula"/> quia 
+					<lb ed="#P"/>anima rationalis sub disiunctione respicit quamlibet 
+					<lb ed="#P"/>materiam ad formam humanam sufferenter dispositam<pc ana="#punctus"/> Determinatio 
+					<lb ed="#P"/>a <pc ana="#punctus-medius"/> ad hanc 1<pc ana="#punctus"/> illam fit ab Deo sicut et creatio animae<pc ana="#punctus"/> Ad 
+					<lb ed="#P"/>Maiorem respondeo Animam rationalem esse ita perfectam ut <unclear>quan</unclear><pc ana="#dbslash"/><lb ed="#P"/>tume 
+					eumque crescant humanae dispositiones quamdiu hu<pc ana="#dbslash"/><lb ed="#P"/>manae 
+					manent nisi possint maiores evadere in perfectio<pc ana="#dbslash"/><lb ed="#P"/>ne 
+					quam ferre possit quodlibet animai rationalis<pc ana="#punctus"/> Igitur perfectio<pc ana="#dbslash"/><lb ed="#P"/>nes 
+					dispositiones exigunt perfectiorem formam<pc ana="virgula"/> quin haec omnes 
+					<lb ed="#P"/>dispositiones illius generis excedit nego<pc ana="#virgula"/> quin nisi excedit<pc ana="#virgula"/> con<pc ana="#dbslash"/><lb ed="#P"/>cedo<pc ana="#punctus"/> 
+					Nam ideo haec materia nisi possit accipere formam aeris<pc ana="#virgula"/> sed 
+					<lb ed="#P"/>ignis<pc ana="#virgula"/> quia dispositiones eius maiores evaserunt quam fe<pc ana="#dbslash"/><lb ed="#P"/>rat 
+					forma quoad speciem sumptae nisi quoad individuationem<pc ana="#punctus"/>
+				</p>
+				<p>
+					<lb ed="#P"/>Dices 3<pc ana="#punctus"/> Anima <name ref="#Christ">Christi</name> sic nisi erit perfectior quam 
+					<lb ed="#P"/>anima <name ref="#Judas">Judae</name><pc ana="#punctus"/>
+				</p>
+				<p>
+					<lb ed="#P"/>Responsa in substantia sua est verum<pc ana="#virgula"/> neque est absurdum<pc ana="#virgula"/> 
+					<lb ed="#P"/>aut si absurdum putas<pc ana="#virgula"/> <unclear>dicere/docere[?]</unclear> debes pessimum peccatorem 
+					<lb ed="#P"/><name ref="#Luther">Lutherum</name> enim <unclear>qui/quem[?]</unclear> habuisse animam imperfectiorem quam omnis 
+					<lb ed="#P"/>alius illo melior<pc ana="#virgula"/> quod frustra dicis<pc ana="#virgula"/> imo contra te<pc ana="#virgula"/> 
+					<lb ed="#P"/>quia in tua sententia quia ingenio praevalet ut <name ref="#Luther">Lutherus</name> 
+					<lb ed="#P"/>meliorem animam sortitus est<pc ana="#punctus"/> 
+				</p>
+				<pb ed="#P" n="220"/>
+				<p>
+					<lb ed="#P"/>Dices 4<pc ana="#punctus"/> differentiae animarum individuae nisi conveni<pc ana="#dbslash"/><lb ed="#P"/>unt 
+					univocem inter se<pc ana="#virgula"/> ergo sub inaequalis perfectionis<pc ana="#punctus"/> 
+					<lb ed="#P"/>Consequentia est evidens<pc ana="#virgula"/> quia sis sub similes in perfectione<pc ana="#virgula"/> 
+					<lb ed="#P"/>hoc ipso fundabunt conceptum nullam dissimilitudinem 
+					<lb ed="#P"/>includentem<pc ana="#virgula"/> id est<pc ana="#P"/> ut constat ex <unclear>Lqia[?]</unclear><pc ana="#virgula"/> Univocum<pc ana="#punctus"/> 
+					<lb ed="#P"/><unclear>Ants[?]</unclear> patet<pc ana="#virgula"/> quia alias sub specie infima statuerer 
+					<lb ed="#P"/>aliud <unclear>Virile[?]</unclear><pc ana="#virgula"/> in quo convenirent<pc ana="#virgula"/> differentiae individu<pc ana="#dbslash"/><lb ed="#P"/>ales<pc ana="#punctus"/>
+				</p>
+				<p>
+					<lb ed="#P"/>Responsari post differentias singulares nisi positione concipi sub aliquae 
+					<lb ed="#P"/>ratione communi<pc ana="#virgula"/> quia earum essentia est esse singulares; Verum etsi per 
+					<lb ed="#P"/>essentiam sint singulares conparatae ad animam quam constituunt<pc ana="#virgula"/> 
+					<lb ed="#P"/>inter se tamen conparatae in hoc conveniunt quod omnes sint 
+					<lb ed="#P"/>differentiae possit esse differentiam singularem nisi esse <unclear>proditum[?]</unclear> <unclear>publicum[?]</unclear> sed 
+					<lb ed="#P"/>tum logicum<pc ana="#virgula"/> quod commune esse post <unclear>inulris[?]</unclear> quia alias ex sua natura 
+					<lb ed="#P"/>commune nihil habent<pc ana="#punctus"/>
+				</p>
+				<p>
+					<lb ed="#P"/>2: post responderi differentiam singularem sola ratione <unclear>dnqui[?]</unclear> ab 
+					<lb ed="#P"/>re singulari<pc ana="#virgula"/> ac proinde in reali eius entitate fun<pc ana="#dbslash"/><lb ed="#P"/>dari 
+					conceptum <unclear>virilem</unclear> sed nisi diversum ab specie sub qua sub 
+					<lb ed="#P"/>animae<pc ana="#virgula"/> sed contra sic differentiae individuae ponentur sub specie 
+					<lb ed="#P"/>quam contrahunt<pc ana="#virgula"/>quod nisi est minus absurdum quam sub genere 
+					<lb ed="#P"/>collocare directe differentias specificas<pc ana="#punctus"/>
+				</p>
+				<p>
+					<lb ed="#P"/>Responsa ergo negando assumptum obtentionis<pc ana="#punctus"/> Et dico singulares 
+					<lb ed="#P"/>differentias secundum quod ratione differunt ab anima singulari conveni<pc ana="#dbslash"/><lb ed="#P"/>re 
+					in aliquo ratione quoque distincto ab conceptu communi singula<pc ana="#dbslash"/><lb ed="#P"/>rum 
+					animarum<pc ana="#punctus"/> Nego tamen sub specie infima collocari aliam 
+					<lb ed="#P"/>speciem <pc ana="#punctus-medius"/> quia species illa in qua conveniunt differentiae singulares 
+					<pb ed="#P" n="221"/>
+					<lb ed="#P"/>respectu lineae rectae nisi est species<pc ana="#virgula"/> sed differentia: <unclear>Quare[?]</unclear> ab 
+					<lb ed="#P"/>latere ponuntur<pc ana="#punctus"/> Sic ergo nemo dumtaxat[?] inter <unclear>Ant[?]</unclear> et hominem 
+					<lb ed="#P"/>esse aliam speciem<pc ana="#virgula"/> etsi ab latere ponatur rationale<pc ana="#virgula"/> quod est 
+					<lb ed="#P"/>vera species praedicabilis<pc ana="#virgula"/> ut alibi diximus<pc ana="#punctus"/> Ita nec 
+					<lb ed="#P"/>hic simile quod dicendum est<pc ana="#punctus"/> Adde id commune in quo conve<pc ana="#dbslash"/><lb ed="#P"/>niunt 
+					differentiae singulares nisi contrahi per aliam novam differentiam 
+					<lb ed="#P"/>ad hanc differentiam singularem<pc ana="#punctus"/> <unclear>L[?]</unclear><pc ana="#punctus"/> certe si putas contrahi 
+					<lb ed="#P"/>quia semper debent distingui id quo aliqua conveniunt<pc ana="#virgula"/> et id 
+					<lb ed="#P"/>quo differunt<pc ana="#virgula"/> tamen ea differentia nisi est constitutiva substanti 
+					<lb ed="#P"/>sub illa specie<pc ana="#virgula"/> sub qua contrahunt differentiae singulares sed 
+					<lb ed="#P"/>sub alia<pc ana="#punctus"/>
+				</p>
+				
+			</div>	
+		</body>
+	</text>
+</TEI>
+
