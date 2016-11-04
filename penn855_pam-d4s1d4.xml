@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/0.0/diplomatic/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/0.0/diplomatic/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Disputatio IV, Sectio 1, Difficultas IV [Penn855 Transcription]</title>
+        <author>Placidus Aegidius Melander</author>
+        <editor>Daniel </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Disputatio IV, Sectio 1, Difficultas IV [Penn855 Transcription]</title>
+          <date when="2016-10-21">Oct 21, 2016</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Lombard Press</publisher>
+        <pubPlace>Baltimore, MD</pubPlace>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref></p>
+        </availability>
+        <date when="2016-10-21">Oct 21, 2016</date>  
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="penn855">Philadelphia, University of Pennyslvania, ms. codex 855</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2016-10-14" who="#JW" status="draft" n="0.0.0-dev">
+          <p>Created file for the first time.</p>
+          <note type="status">
+            <note type="collobaration">Yes</note>
+            <note type="validating-schema">lbp-0.0.1</note>
+            <note type="transcription-type">documentary</note>
+          </note>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  
+  <text xml:lang="la">
+    <front>
+      <div xml:id="includeList">
+        <xi:include href="https://bitbucket.org/lombardpress/lombardpress-lists/raw/master/workscited.xml" xpointer="worksCited"/>
+        <xi:include href="https://bitbucket.org/lombardpress/lombardpress-lists/raw/master/Prosopography.xml" xpointer="prosopography"/>
+      </div>
+      <div type="startsOn">
+        <pb ed="#P" n="221"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="pam-d4s1d2">
+        <head>Disputatio IV, Sectio 1, Difficultas IV [Penn855 Transcription]</head>
+        <head type="questionTitle">An anima rationalis sit 
+          <lb ed="#P"/>divisibilis in essendo<pc ana="#virgula"/> vel 
+          <lb ed="#P"/>saltim in uniendo<pc ana="#punctus-interrogativus"/>
+        </head> 
+        <p>
+          <lb ed="#P"/>Responso <pc ana="#punctus"/>I<pc ana="#punctus"/> esse indivisibilem in essendo<pc ana="#virgula"/> id est<pc ana="#virgula"/> nisi habere 
+          <lb ed="#P"/>partes entitativas<pc ana="#virgula"/> quarum una realiter nisi sit altera<pc ana="#virgula"/> 
+          <lb ed="#P"/>sicuti habet ut qui lignum<pc ana="#punctus-elevatus"/> Itaque necessus est in quavis parte 
+          <lb ed="#P"/>corporis animati esse totam animam<pc ana="#virgula"/> <unclear>sic/sicut[?]</unclear> est in toto corpore<pc ana="#virgula"/> 
+          <lb ed="#P"/>nec tamen erunt multae animae<pc ana="#virgula"/> quia <unclear>lt[?]</unclear> sint multae partes<pc ana="#virgula"/> 
+          <lb ed="#P"/>in quibus est anima<pc ana="#virgula"/> est tamen una anima in omnibus partibus per mo<pc ana="dbslash"/><pb ed="#P" n="222"/><lb ed="#P"/>dum
+          unionis<pc ana="#punctus"/> Neque hic eadem res est proprie in mul<pc ana="dbslash"/><lb ed="#P"/>tis 
+          locis<pc ana="#virgula"/> sed tantum in uno loco divisibili maiori quam 
+          <lb ed="#P"/>alias esse posset<pc ana="#punctus"/> Ita communis sententia Catholicorum<pc ana="#virgula"/> quia 
+          <lb ed="#P"/>omnes animam rationalem ut materia et quante carentem<pc ana="#virgula"/> et ab iisdem 
+          <lb ed="#P"/>independentem agnoscunt<pc ana="#virgula"/> ita et indivisibilem<pc ana="#virgula"/> divi<pc ana="dbslash"/><lb ed="#P"/>sibilitas 
+          enim quantitatem sequitur<pc ana="#punctus"/> Unde accedentia materialia 
+          <lb ed="#P"/>sub divisibilia<pc ana="#virgula"/>quia etsi nisi habeant quantem diversam 
+          <lb ed="#P"/>ab quante subsisti<pc ana="#virgula"/> dependent tantum in essendo ab illa<pc ana="#punctus"/>
+        </p>
+         <p>
+           <lb ed="#P"/>Dices 1<pc ana="#punctus"/> Extra totum nihil est sumere<pc ana="#virgula"/> ergo si 
+           <lb ed="#P"/>tota anima est enim qui in pede<pc ana="#virgula"/> extra pedem nihil erit animae<pc ana="#punctus"/>            
+         </p>
+         <p>
+           <lb ed="#P"/>Responsa <name ref="#Aquinas">Sancti Thomae</name> in <unclear>quoque[?]</unclear> disputatis quasdam de animam<pc ana="#virgula"/>
+           ad 10<pc ana="#punctus"/> Extra Totum nihil esse sumere<pc ana="#virgula"/> id est<pc ana="#virgula"/> si su<pc ana="dbslash"/><lb ed="#P"/>mas 
+           quicquid<pc ana="#virgula"/> et ubicumque est Totum<pc ana="#virgula"/> extra illud nihil 
+           <lb ed="#P"/>est sumere<pc ana="#virgula"/>hic enim tu sumis tamen pedem<pc ana="#virgula"/> in quo <unclear>lt[?]</unclear> sit 
+           <lb ed="#P"/>tota anima<pc ana="#virgula"/>nisi tantum in eo solo<pc ana="#punctus"/> Bene enim sumeres cor<pc ana="#dbslash"/><lb ed="#P"/>pus 
+           <pc ana="#virgula"/> dicendo: Si tota anima est in toto corpore<pc ana="#virgula"/>ergo 
+           extra corpus nihil est animae<pc ana="#punctus"/> Adde extra illam animam<pc ana="#virgula"/> 
+           <lb ed="#P"/>quae est in pede<pc ana="#virgula"/> nihil esse animae in reliquo corpore<pc ana="#virgula"/> 
+           esse <unclear>tamen/tantum[?]</unclear> eandem animam<pc ana="#virgula"/> quia est in pede<pc ana="#punctus"/>
+         </p>
+        <p>
+           <lb ed="#P"/>Responsa <unclear>dngndo[?]</unclear> sequelam<pc ana="#punctus"/> Erit in pede<pc ana="#virgula"/>radicaliter<pc ana="#virgula"/>
+           <lb ed="#P"/>concedo<pc ana="#virgula"/> operatione<pc ana="#virgula"/> nego<pc ana="#punctus"/> Id est, <pc ana="#virgula"/> intellectum in esse animae exi<pc ana="#dbslash"/><lb ed="#P"/>stenti 
+          in pede<pc ana="#virgula"/> operationem tamen exercere<pc ana="#virgula"/> nisi ut est in pe<pc ana="#dbslash"/><pb ed="#P" n="223"/><lb ed="#P"/>de 
+         <pc ana="#virgula"/> sed ut in ea parte<pc ana="#virgula"/> in qua <unclear>st[?]</unclear> necessaria ad intellegendum<pc ana="#virugla"/> 
+           <lb ed="#P"/>ut <unclear>st[?]</unclear> in capite<pc ana="#punctus"/>
+        </p>
+        <p>
+           <lb ed="#P"/>Dices 3<pc ana="#punctus"/> Sic anima eadem numero secundem idem sui 
+           <lb ed="#P"/>simul movebitur et quiescet<pc ana="#punctus-elevatus"/> Nam si movetur manus<pc ana="#virgula"/> ne<pc ana="#dbslash"/><lb ed="#P"/>cesse 
+           est et moveri animam<pc ana="#virgula"/> quia est in manu<pc ana="#virgula"/> etsi caput 
+           <lb ed="#P"/>quiescat<pc ana="#virgula"/> necesse est quiescere animam capitis<pc ana="#punctus-elevatus"/> quia dum est in 
+           <lb ed="#P"/>corpore<pc ana="#virgula"/> nisi movetur nisi moto corpore<pc ana="#virgula"/> potest a <pc ana="#punctus-medius"/> mo<pc ana="#dbslash"/><lb ed="#P"/>veri 
+           manus quiescente capite<pc ana="#punctus"/> 
+        </p>
+        <p>
+           <lb ed="#P"/>Responsa Santus Thomas ibid<pc ana="#punctus"/> Animam ad motum corporis 
+           <lb ed="#P"/>moveri tantum per accidens<pc ana="#virgula"/> sicut quia movetur ad motum ea vis: 
+           <lb ed="#P"/>nihil a<pc ana="#punctus-medius"/> absurdi esse<pc ana="#virgula"/> ut idem simul quiescat<pc ana="#virgula"/> et mo<pc ana="#dbslash"/><lb ed="#P"/> 
+           veatur per accidens<pc ana="#virgula"/> modo hoc nisi contingat per se<pc ana="#virgula"/> ut clare 
+           <lb ed="#P"/>constat in extemplo dato<pc ana="#punctus"/>
+        </p>
+        <p>
+          <lb ed="#P"/>Dices 4<pc ana="#punctus"/>Omne quod est in altero est in eo per mo<pc ana="#dbslash"/><lb ed="#P"/>dum
+          eius in quo est<pc ana="#virgula"/> ut est commune axioma<pc ana="#virgula"/> ergo Si Anima 
+          <lb ed="#P"/>est in materia<pc ana="#virgula"/> est in ea secundum modum materiae<pc ana="#punctus"/> Modus a<pc ana="#punctus-medius"/> Materiae 
+          <lb ed="#P"/>est dum formae <unclear>subiicr[?]</unclear>subiecter<pc ana="#virgula"/> habere partes extensionis<pc ana="#virgula"/> ergo eundem 
+          <lb ed="#P"/>modum recipere debet forma<pc ana="#virgula"/>dum informat<pc ana="#punctus"/> 
+        </p>
+        <p>
+          <lb ed="#P"/>Responsa idem<pc ana="#virgula"/> cum dicitur Unumquodque esse in altero secundum 
+          <lb ed="#P"/>modum eius intellegi quantum ad capacitatis ipsius modum<pc ana="#virgula"/> 
+          <lb ed="#P"/>nisi quantum ad modum naturae<pc ana="#punctus-elevatus"/> Manifestum est nec <unclear>inquit[?]</unclear><pc ana="#virgula"/> 
+          <lb ed="#P"/>aquam nisi habere amphorae naturam<pc ana="#virgula"/> etsi recipiatur secundum mo<pc ana="#dbslash"/><lb ed="#P"/>dum 
+          capacitatis amphorae<pc ana="#punctus"/> Ita ergo anima recipitur secundum 
+          <lb ed="#P"/>modum materiae<pc ana="#virgula"/> nisi quem habet in natura<pc ana="#virgula"/> sed quem habet in ca<pc ana="#dbslash"/><lb ed="#P"/>pacitate: 
+          Est a<pc ana="#punctus-medius"/> materia capax qualibet sui parte 
+        <pb ed="#P" n="224"/>
+          <lb ed="#P"/>recipere totam formam<pc ana="#virgula"/> si conditiones necessariae adsint<pc ana="#punctus"/> 
+          <lb ed="#P"/>Eandem indivisibilitem attribuit D. Thomas locutio citatio: a<pc ana="#dbslash"/><lb ed="#P"/>nimabus 
+          brutorum perfectorum<pc ana="#punctus"/> Verum nisi possumus id ad<pc ana="#dbslash"/><lb ed="#P"/>mittere<pc ana="#punctus"/>
+          1<pc ana="#punctus"/> quia animae brutae educuntur ex potentia subiecti 
+          <lb ed="#P"/>quod informant: Informant a<pc ana="#punctus-medius"/> totum corpus<pc ana="#ergo"/> educuntur 
+          <lb ed="#P"/>ex toto corpore<pc ana="#virgula"/> sed quia pars educatur ex materia cordis<pc ana="#virgula"/> 
+          <lb ed="#P"/>nisi est realiter illa<pc ana="#virgula"/>quia educatur ex materia pedis<pc ana="#virgula"/> cum possit 
+          <lb ed="#P"/>cor esse animatum nondum animato pede<pc ana="#punctus"/> Itaque aut di<pc ana="#dbslash"/><lb ed="#P"/>cendum 
+          animam educi ex una parte materiae<pc ana="#virgula"/> et reliquas post<pc ana="#dbslash"/><lb ed="#P"/>ea 
+          informare<pc ana="#virgula"/> ex quibus educta nisi fuit<pc ana="#virgula"/> aut certe e<pc ana="#dbslash"/><lb ed="#P"/>ductam 
+          esse ex omnibus partibus et per consequens habere partes in<pc ana="#dbslash"/><lb ed="#P"/>tegrantes<pc ana="#virgula"/>
+          nisi dicas eandem animam simul et semel<pc ana="#virgula"/> aut
+          <lb ed="#P"/>et successive saepius educi<pc ana="#virgula"/>quod realiter est impossibile<pc ana="#punctus"/>
+          <lb ed="#P"/>2<pc ana="#punctus"/> quia actio productiva animae brutae supponit 
+          <lb ed="#P"/>subiectum quantum<pc ana="#punctus"/> quod est indicium ipsam esse [in]divisibi<pc ana="#dbslash"/><lb ed="#P"/>lem:
+          nisi <unclear>patet/post[?]</unclear> a<pc ana="#punctus-medius"/> esse divisibilis<pc ana="#virgula"/> nisi terminus<pc ana="#virgula"/> id est<pc ana="#virgula"/> anima 
+          <lb ed="#P"/>producta sit divisibilis<pc ana="#punctus"/>
+        </p>
+        <p>
+          Adde hac ratione fore<pc ana="#virgula"/>
+          <lb ed="#P"/>ut nutritione <unclear>L.[?]</unclear> tota anima bruti intereat<pc ana="#virgula"/> et tota 
+          <lb ed="#P"/>nova producatur <unclear>L.[?]</unclear> certe eadem numero<pc ana="#virgula"/> quia profuit[?]<pc ana="#virgula"/> 
+          <lb ed="#P"/>incipiat informare materiam ad generatam <pc ana="#punctus"/> quorum prius est 
+          <lb ed="#P"/>evidenter falsum<pc ana="#virgula"/> posterius alibi refutatum<pc ana="#punctus"/> 
+        </p>
+        <p>
+          <lb ed="#P"/>Responso 2<pc ana="#punctus"/> Unio <unclear>tamen/tantum[?]</unclear> esset animae rationalis est divisi<pc ana="#dbslash"/><lb ed="#P"/>bilis<pc ana="#virgula"/> 
+          id est<pc ana="#virgula"/> <unclear>quoniam[?]</unclear> eadem anima unitur omnibus partibus materiae<pc ana="#virgula"/> 
+          <lb ed="#P"/>modus unionis quo unitur parti <unclear>A/Aristotle[?]</unclear> est realiter<pc ana="#virgula"/> 
+          <lb ed="#P"/>distinctus ab modo quo unitur parti <unclear>C./Clement[?]</unclear> licet uterque 
+          <lb ed="#P"/>sit pars integrans totius unionis qua forma unitur 
+          <lb ed="#P"/>toti[catch-word] 
+        <pb ed="#P" n="225"/> 
+          <lb ed="#P"/>toti materiae<pc ana="#punctus"/> Ita<pc ana="#punctus"/> multi <unclear>?hlgor</unclear> in simili<unclear>qui/quia/quod[?]</unclear><pc ana="#virgula"/> 
+          <lb ed="#P"/>etsi Angelus sit indivisibilis<pc ana="#virgula"/> eius <unclear>tantum/tamen[?]</unclear> praesentiam localem 
+          <lb ed="#P"/>divisibilem esse<pc ana="#virgula"/> quia <unclear>patet/post[?]</unclear> coexistere magno spatio habenti 
+          <lb ed="#P"/>partes<pc ana="#punctus"/> Praesentia ergo per quam coexistit parti B. nisi est eadem 
+          <lb ed="#P"/>per quam coexistat parti A. quia essentialem ordinem praesentia 
+          <lb ed="#P"/>distinguit ad id cui subiectum constituit praesens ad praesentiam 
+          <lb ed="#P"/>subiecti ad partem A<pc ana="#punctus"/> nisi distinguit essentialem ordinem ad partem B. 
+          <lb ed="#P"/>ergo alia est praesentia ad partem B. idem est in praesentia 
+          <lb ed="#P"/>animae rationalis ad partes materiae <unclear>propter</unclear> idem argumentum<pc type="#punctus-elevatus">;</pc> hinc 
+          <lb ed="#P"/>ergo probatur responsum Praesentia subiecti indivisibilis ad terminum 
+          <lb ed="#P"/>divisibilem est divisibilis<pc ana="#virgula"/>ergo et unio ad terminum 
+          <lb ed="#P"/>similiter divisibilem<pc ana="#punctus"/> Consequens<pc type="#punctus-elevatus">:</pc> constat Primo quia nisi est minus 
+          <lb ed="#P"/>impossibile eadem unione quia animam nectit pedi<pc ana="#virgula"/> ipsam 
+          <lb ed="#P"/>iungi capiti<pc ana="#virgula"/> quam eadem praesentia reddi praesentem pedi 
+          <lb ed="#P"/>et capiti<pc ana="#punctus"/>
+        </p>
+        <p>
+           2<pc ana="#punctus"/> quia ex Antecedens constat nisi colligi 
+          <lb ed="#P"/><unclear>indivisibiliter[?]</unclear> modi ex <unclear>indivisibilite[?]</unclear> subjecti praecise<pc ana="#virgula"/> 
+          <lb ed="#P"/>ergo nisi paret colligere unionem esse indivisibilem<pc ana="#virgula"/> quod 
+          <lb ed="#P"/>subiectum eius sit indivisibile<pc type="#punctus-elevatus">;</pc> hoc autem est primarium 
+          <lb ed="#P"/>argumentum adversariorum<pc ana="#punctus"/> Confirmatur<pc type="#punctus-elevatus">:</pc> Unio Animae 
+          <lb ed="#P"/>cum capite manere paret amissa unione cum pede<pc ana="#virgula"/> 
+          ergo nisi est eadem unio cum utroque<pc ana="#virgula"/> ergo unio animae rationalis est divisibilis in partes<pc ana="#punctus"/>
+        </p>
+        <p>
+          <lb ed="#P"/>Dices<pc ana="#punctus"/> nisi paret idem esse realiter divisibile et in<pc ana="#dbslash"/><lb ed="#P"/>divisibile<pc ana="#virgula"/> 
+          sed Unio est realiter idem cum anima indivi<pc ana="#dbslash"/><lb ed="#P"/>sibili<pc ana="#virgula"/>
+          cum ab ea differat tantum <unclear>modalitur[?]</unclear><pc ana="#punctus"/>ergo<pc ana="#punctus"/>
+        </p>
+        <pb ed="#P" n="226"/>
+        <p>
+          <lb ed="#P"/> Responsa distinguendo Maior in eadem genere<pc ana="#virgula"/> concedo<pc ana="#virgula"/> in divier<pc ana="#dbslash"/><lb ed="#P"/>so<pc ana="#virgula"/> 
+          nego<pc ana="#punctus"/> Sensus est<pc type="#punctus-medius">:</pc> Entitas realis indivisibilis 
+          <lb ed="#P"/>in uno genere nisi patet esse divisibilis in eadem patet <unclear>tamen/tantum[?]</unclear> 
+          <lb ed="#P"/>in alio<pc type="#punctus-medius">;</pc> Sic datur qualitas<pc ana="#virgula"/> quia est indivisibilis secundum 
+          <lb ed="#P"/>intensionem divisibilis <unclear>tamen/tantum[?]</unclear> secundum extensionem in 
+          <lb ed="#P"/>genere quantitatis<pc ana="#punctus"/> Itaque Anima sub genere subsistentiae nisi est 
+          <lb ed="#P"/>divisibilis<pc ana="#virgula"/> cum in eo sit indivisibilis<pc ana="#virgula"/> patet tamen esse 
+          <lb ed="#P"/>divisibilis sub genere modi substantialis<pc ana="#virgula"/> sub quo est u<pc ana="dbslash"/><lb ed="#P"/>nio<pc type="#punctus-medius">:</pc> 
+          Nihil enim repugnat rem indivisibilem habere se 
+          <lb ed="#P"/>modo divisibili<pc ana="#virgula"/> ut patet in Angelo<pc ana="#punctus"/> Ratio a 
+          <lb ed="#P"/>priori est<pc ana="#virgula"/> quia anima spiritualis est magnae perfectionis 
+          <lb ed="#P"/>in essendo<pc ana="#virgula"/> id est<pc ana="#virgula"/> habet virtutem sine quante praestandi ali<pc ana="#dbslash"/><lb ed="#P"/>quod 
+          quod alia praestat cum quantitate<pc ana="#punctus"/> Unde alii concedunt 
+          <lb ed="#P"/>Maiorem de indivisbili et formaliter et virtualiter<pc type="#punctus-medius">;</pc> 
+          <lb ed="#P"/>Negant de indivisbili formaliter<pc ana="#virgula"/> sed nisi simul vir<pc ana="#dbslash"/><lb ed="#P"/>tualiter<pc ana="#virgula"/> 
+          sic est anima<pc ana="#punctus"/> Pro quo observa ex 
+          <lb ed="#P"/><name ref="#Aquinas">D. Thom</name> loco citato<pc ana="#punctus"/> Simplicitatem animae nisi esse exi<pc ana="#dbslash"/><lb ed="#P"/>stimandam 
+          ad modum simplicitatis puncti quod 
+          <lb ed="#P"/>dicitur Simplex et Indivisibile<pc ana="#virgula"/> quia est principium divi<pc ana="#dbslash"/><lb ed="#P"/>sibilis<pc ana="#virgula"/> 
+          et conpositi ex partibus integrantibus<pc ana="#punctus"/> Anima enim 
+          <lb ed="#P"/>tantum dicitur indvisibilis ex eo<pc ana="#virgula"/> quia nec habet ex se 
+          <lb ed="#P"/>quantitatem quia est principium divisionis in materialibus nec illam 
+          <lb ed="#P"/>requirit<pc type="#punctus-medius">:</pc> per hoc tamen nisi tollitur<pc ana="#virgula"/> <unclear>quin/quoniam[?</unclear> in anima sit alia 
+          <lb ed="#P"/>perfectio<pc ana="#virgula"/> qui animam faciat rei divisibili prae<pc ana="#dbslash"/><lb ed="#P"/>sentem[CATCHWORD] 
+         <pb ed="#P" n="227"/> 
+          <lb ed="#P"/>sentem<pc ana="#virgula"/> vel unitam sicuti in materialibus facit 
+          <lb ed="#P"/>res extensa<pc ana="#punctus"/>
+        </p>
+      </div>	
+    </body>
+  </text>
+</TEI>
+
