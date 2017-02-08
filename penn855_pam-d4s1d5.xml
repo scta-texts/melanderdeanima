@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/0.0/diplomatic/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/0.0/diplomatic/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Disputatio IV, Sectio 1, Difficultas V [Penn855 Transcription]</title>
+        <author>Placidus Aegidius Melander</author>
+        <editor>Daniel </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Disputatio IV, Sectio 1, Difficultas V [Penn855 Transcription]</title>
+          <date when="2016-10-21">Jan 18, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Lombard Press</publisher>
+        <pubPlace>Baltimore, MD</pubPlace>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref></p>
+        </availability>
+        <date when="2016-10-21">Jan 18, 2017</date>  
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="penn855">Philadelphia, University of Pennyslvania, ms. codex 855</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2016-10-14" who="#JW" status="draft" n="0.0.0-dev">
+          <p>Created file for the first time.</p>
+          <note type="status">
+            <note type="collobaration">Yes</note>
+            <note type="validating-schema">lbp-0.0.1</note>
+            <note type="transcription-type">documentary</note>
+          </note>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  
+  <text xml:lang="la">
+    <front>
+      <div xml:id="includeList">
+        <xi:include href="https://bitbucket.org/lombardpress/lombardpress-lists/raw/master/workscited.xml" xpointer="worksCited"/>
+        <xi:include href="https://bitbucket.org/lombardpress/lombardpress-lists/raw/master/Prosopography.xml" xpointer="prosopography"/>
+      </div>
+      <div type="startsOn">
+        <pb ed="#P" n="227"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="pam-d4s1d5">
+        <head>Disputatio IV, Sectio 1, Difficultas V [Penn855 Transcription]</head>
+        <head type="questionTitle">Quandonam Anima rationalis
+          <lb ed="#P"/>infundatur Corpori<pc ana="#punctus-interrogativus"/>
+        </head>
+        <p>
+          <lb ed="#P"/>Certum est infundi<pc ana="#virgula"/> <unclear>quoniam?</unclear> materia iam est <unclear>suffnter?</unclear> disposi<pc ana="dbslash"/><lb ed="#P"/>ta<pc ana="#virgula"/> 
+          <lb ed="#P"/>sed quaestio est<pc ana="#virgula"/> <unclear>quoniam[?]</unclear> sit disposita<pc ana="#punctus"/> 
+        </p>
+        <p>Primo <unclear>quodam[?]</unclear>
+          <lb ed="#P"/><unclear>debent/dicent[?]</unclear> Embryonem in principio omnino nisi vivere<pc ana="#virgula"/> et per 
+          <lb ed="#P"/>consequens carere omni anima.
+        </p>
+        <p>Secundo alii docent Em<pc ana="#dbslash"/><lb ed="#P"/>brionem prius habere animam vegetativam<pc ana="#virgula"/> quia ad hanc 
+          <lb ed="#P"/>prius disponitur<pc ana="#virgula"/> postea Sensitivam<pc ana="#virgula"/> abiecta priore 
+          <lb ed="#P"/> Vegetativa<pc type="punctus-elevatus">:</pc> tandem rationalem abjecta et Sensitiva<pc ana="#punctus"/> 
+          <lb ed="#P"/>Ita <unclear>D. Phom.[?]</unclear> a<pc ana="#punctus"/> ii <pc ana="#punctus"/> qui[?] de Anima<pc ana="#punctus"/>
+        </p>
+        <p>Alii omnes has 
+          <lb ed="#P"/>animas successive introduci<pc ana="#virgula"/> sed priorem inducta 
+          <lb ed="#P"/>posteriore nisi <unclear>abiici</unclear><pc ana="#punctus"/> 
+        </p> 
+        <p>
+          Alii tandem dicunt Embrio<pc ana="#dbslash"/><lb ed="#P"/>nem numquam habere aliam animam<pc ana="#virgula"/> quam rationalem<pc ana="#punctus"/> Sed hanc 
+          <lb ed="#P"/>principio aliquot diebus exercere operationes vegetati<pc ana="#dbslash"/><lb ed="#P"/>vas<pc ana="#virgula"/> quia ad Sensitivas et rationales materia nondum est 
+          <lb ed="#P"/>disposita<pc type="punctus-elevatus">:</pc> Postea per aliquot dies sensitivas <unclear>tamen/tantum[?]</unclear> 
+          <lb ed="#P"/>ob eandem causam<pc ana="#virgula"/> et tandem rationales<pc ana="#punctus"/> Quid ex his 
+          <lb ed="#P"/>verum sit<pc ana="#virgula"/> facilius definire poterunt Medici 
+          <lb ed="#P"/>observatione<pc ana="#virgula"/> quam nos ratione<pc ana="#punctus"/> Aristoteles secundo de generatione 
+          <lb ed="#P"/>animalium caput 3 expresse videtur sentire<pc ana="#punctus"/> quod <unclear>D. Pho:[?]</unclear> 
+        <pb ed="#P" n="228"/>
+          <lb ed="#P"/>docuit<pc ana="#virgula"/> Embrionem prius accipere animam vegetativam<pc ana="#virgula"/> 
+          <lb ed="#P"/>postea Sensitivam<pc ana="#virgula"/> tandem rationalem<pc ana="punctus"/> Posset tamen intellegi 
+          <lb ed="#P"/>Aristoteles nisi secundem substantiam<pc ana="#virgula"/> sed secundem operationes<pc ana="#virgula"/> ut ultimo di<pc ana="#dbslash"/><lb ed="#P"/>ximus<pc ana="#punctus"/> 
+          <unclear>Conimb.[?]</unclear> quoque <unclear>dicunt[?]</unclear><pc ana="#virgula"/> abiecta prius anima vegeta<pc ana="#dbslash"/><lb ed="#P"/>tiva<pc ana="#virgula"/>
+           et inde et sensitiva<pc ana="#virgula"/> rationalem in maribus 
+          <lb ed="#P"/>quadragesimo<pc ana="#virgula"/> et in <unclear>faeminis[?]</unclear> octuagesimo die in<pc ana="#dbslash"/><lb ed="#P"/>fundi<pc ana="#virgula"/> 
+           quod praeter auctoritatem eorum quos citant colli<pc ana="#dbslash"/><lb ed="#P"/>gunt 
+           ex eo<pc ana="#virgula"/> quia in veteri lege faemina si Masculum 
+          <lb ed="#P"/>pepererat quadraginta diebus<pc ana="#virgula"/> si faeminam octoginta 
+          <lb ed="#P"/>sese domo continebat<pc ana="#punctus"/> 
+        </p>
+        <p>Hunc nam numerum <unclear>inquirunt[?]</unclear> 
+          <lb ed="#P"/>divinarum <unclear>terrarum[?]</unclear> Interpretes ad imitationem naturae 
+          <lb ed="#P"/>ac temporis quo in utero corpus effingitur<pc ana="#virgula"/> praescriptum 
+          <lb ed="#P"/>fuisse affirmant<pc ana="#punctus"/> Eidem sententiae favet primo quia anima 
+          <lb ed="#P"/>nisi infunditur nisi in materia apta recipere operationes spe<pc ana="#dbslash"/><lb ed="#P"/>cificas 
+          ipsius<pc ana="#virgula"/> ut constat inductione religuarum for<pc ana="#dbslash"/><lb ed="#P"/>marum<pc ana="#virgula"/> 
+          sed materia Embrionis <unclear>non/nisi[?]</unclear> statim est apta recipere 
+          <lb ed="#P"/>operationes sensitivas<pc ana="#virgula"/> <unclear>quin/quoniam[?]</unclear> recipit vegetativas<pc ana="#virgula"/> nec rationa<pc ana="#dbslash"/><lb ed="#P"/>les<pc ana="#virgula"/> 
+          <unclear>quin/quoniam[?]</unclear> sensitivas<pc ana="#punctus"/> 
+        </p>
+        <p>
+          Secundo quia docent nobiles <unclear>Phlgi[?]</unclear> 
+          <lb ed="#P"/>et desumunt ex Iure Canon<pc ana="#punctus"/> <unclear>nisi/non[?]</unclear> committere homici<pc ana="#dbslash"/><lb ed="#P"/>dium 
+          erem<pc ana="#virgula"/> quia ante infusionem animae rationalis faetum oc<pc ana="#dbslash"/><lb ed="#P"/>cidit<pc ana="#virgula"/> 
+          ergo supponunt animam rationalem infundi modo post<pc ana="#dbslash"/><lb ed="#P"/>quam 
+          Embrio vixit<pc ana="#punctus"/> 
+        </p>
+        <p>
+          Ab hac tamen generali lege omnino 
+          <lb ed="#P"/>excipitur <name ref="#Christ">Christus Dominus</name><pc ana="#virgula"/> in quo quod naturae <unclear>viribus[?]</unclear> 40 die<pc ana="#dbslash"/><lb ed="#P"/>rum 
+          spatio paullatim effingendum erat divina vir<pc ana="#dbslash"/><lb ed="#P"/>tute 
+          et Spiritus sancti opera momento perfectum 
+          <lb ed="#P"/>absolutumque fuit<pc ana="#punctus"/> 
+        <pb ed="#P" n="229"/>Certum observa in hac sententia<pc ana="#virgula"/> quod nutat <unclear>Rub. liber <lb ed="#P"/> 2.[?]</unclear> 
+          de anima<pc ana="#virgula"/> <unclear>tractatis[?]</unclear> de modo<pc ana="#virgula"/> quo anima <unclear>inform[at][?]</unclear> <unclear>qui/quo[?]</unclear> 5<pc ana="#punctus"/> 
+          <lb ed="#P"/>animam vegetativam quam primo habet Embrio<pc ana="#virgula"/> <unclear>nisi/non[?]</unclear> esse ali<pc ana="#dbslash"/><lb ed="#P"/>us 
+          plantae anima<pc ana="#virgula"/> sed specie differre ab omni alia anima 
+          <lb ed="#P"/>vegetativa<pc type="punctus-elevatus">;</pc> Et similiter Sensitivam ab onmi alia sen<pc ana="#dbslash"/><lb ed="#P"/>sitiva<pc type="punctus-elevatus">:</pc> 
+          Imo esse <unclear>tantum/tamen[?]</unclear> dispositionem<pc ana="#virgula"/> <unclear>I.</unclear> certe <unclear>necriam[?]</unclear> 
+          <lb ed="#P"/><unclear>qdioem[?]</unclear> dispositiorum ad aliam rationalem introducenda<pc ana="#dbslash"/><lb ed="#P"/>rum<pc ana="#punctus"/> 
+        </p>
+        <p>
+          Hinc <unclear>rnderi</unclear> potest ad quaestionem<pc type="#punctus-elevatus">:</pc> A quo<pc ana="#dbslash"/><lb ed="#P"/>nam 
+          corrumpatur anima vegetativa et Sensativa 
+          <lb ed="#P"/>Embrionis<pc ana="#punctus"/> Nam cum in hac sententia sint formae im<pc ana="#dbslash"/><lb ed="#P"/>perfectae 
+          ex natura sua non nisi imperfectas dispositiones re<pc ana="#dbslash"/><lb ed="#P"/>quirent 
+          et patiuntur<pc type="punctus-elevatus">:</pc> quare cum paullatim Embrio<pc ana="#dbslash"/><lb ed="#P"/>nis 
+          dispositiones magis perficiantur<pc ana="#virgula"/> necesse est abscedere 
+          <lb ed="#P"/>animam vegetativam et sensitivam<pc ana="#virgula"/> et advenire rationalem<pc ana="#virgula"/> 
+          <lb ed="#P"/>cui dispositiones illae convenientes sunt<pc ana="#punctus"/> Id ergo 
+          <lb ed="#P"/>quod dispositiones animae rationalis introducit formam Embrio<pc ana="#dbslash"/><lb ed="#P"/>nis<pc ana="#virgula"/> 
+          Sensitivam corrumpi<pc ana="#punctus"/>
+        </p>
+        <p>
+          Alii etiam sequuntur 
+          <lb ed="#P"/>quod primo diximus addentes ante diem quadra<pc ana="#dbslash"/><lb ed="#P"/>gesimum 
+          Embrionem sic nullam habere animam vegetati<pc ana="#dbslash"/><lb ed="#P"/>vam<pc ana="#virgula"/> 
+          nec sensitivam<pc type="punctus-elevatus">;</pc> Sed hos redarguent Me<pc ana="#dbslash"/><lb ed="#P"/>dici<pc ana="#virgula"/> 
+          et Anathomici<pc ana="#virgula"/> qui in faetibus minoribus tem<pc ana="#dbslash"/><lb ed="#P"/>poris 
+          vitales operationes se deprehendisse asse<pc ana="#dbslash"/><lb ed="#P"/>verant<pc ana="#punctus"/> 
+        </p>
+      </div>	 
+    </body>
+  </text>
+</TEI>
