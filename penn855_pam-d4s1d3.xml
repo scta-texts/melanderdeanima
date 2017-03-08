@@ -49,7 +49,7 @@
 				<xi:include href="https://bitbucket.org/lombardpress/lombardpress-lists/raw/master/workscited.xml" xpointer="worksCited"/>
 				<xi:include href="https://bitbucket.org/lombardpress/lombardpress-lists/raw/master/Prosopography.xml" xpointer="prosopography"/>
 			</div>
-			<div type="startsOn">
+			<div xml:id="starts-on">
 				<pb ed="#P" n="216"/>
 			</div>
 		</front>
