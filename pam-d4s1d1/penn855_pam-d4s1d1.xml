@@ -2,137 +2,137 @@
 <?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Disputatio IV, Sectio 1, Difficultas I [Penn855 Transcription]</title>
-				<author>Placidus Aegidius Melander</author>
-				<editor>Daniel </editor>
-			</titleStmt>
-			<editionStmt>
-				<edition n="0.0.0-dev">
-					<title>Disputatio IV, Sectio 1, Difficultas I [Penn855 Transcription]</title>
-					<date when="2016-05-17">May 17, 2016</date>
-				</edition>
-			</editionStmt>
-			<publicationStmt>
-				<authority>SIMS</authority>
-				<availability status="free">
-					<p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref></p>
-				</availability>
-				<date when="2016-05-17">May 17, 2016</date>  
-			</publicationStmt>
-			<sourceDesc>
-				<listWit>
-					<witness xml:id="P" n="penn855">Philadelphia, University of Pennyslvania, ms. codex 855</witness>
-				</listWit>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<schemaRef
-				n="lbp-diplomatic-1.0.0"
-				url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/1.0/diplomatic.rng">
-			</schemaRef>
-			<editorialDecl>
-				<p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition</p>
-			</editorialDecl>
-		</encodingDesc>
-		<revisionDesc status="draft">
-			<listChange>
-				<change when="2015-07-18" who="#JW" status="draft" n="0.0.0">
-					<p>Created file for the first time.</p>
-				</change>
-			</listChange>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:lang="la">
-		<front>
-			<div xml:id="includeList">
-				<xi:include href="https://bitbucket.org/lombardpress/lombardpress-lists/raw/master/workscited.xml" xpointer="worksCited"/>
-				<xi:include href="https://bitbucket.org/lombardpress/lombardpress-lists/raw/master/Prosopography.xml" xpointer="prosopography"/>
-			</div>
-			<div xml:id="starts-on">
-				<pb ed="#P" n="212"/>
-			</div>
-		</front>
-		<body>
-			<div xml:id="pam-d4s1d1">
-				<head>Disputatio IV, Sectio 1, Difficultas I [Penn855 Transcription]</head>
-				<head type="questionTitle">An possit evidenter demonstrari seclusa fide catholica animam rationalem esse immortalem</head>
-				<p>
-					<lb ed="#P"/>Respondet sententia posse<pc ana="#virgula"/> 1<pc ana="#punctus"/> Demonstratione et certitudine 
-					<lb ed="#P"/>morali <pc ana="#virgula"/> hoc modo: Si deus providens<pc ana="#virgula"/> et iustus est anima 
-				<pb ed="#P" n="213"/>
-					<lb ed="#P"/>rationalis immortalis est<pc ana="#virgula"/> sed Deus est providens et iustus ergo 
-					<lb ed="#P"/>Minor patet lumine naturali<pc ana="#punctus"/> Maior probatur<pc ana="#punctus"/> Si Deus pro<pc ana="#dbslash"/><lb ed="#P"/>videns
-					et iustus est aequus est ut probos Dei cultores prae<pc ana="#dbslash"/><lb ed="#P"/>mio 
-					afficiat<pc ana="#virgula"/> improbos enim et Consentores supplicio<pc ana="#punctus"/> 
-					<lb ed="#P"/>hoc enim evidentur nisi fit semper in hoc vita cum plerumque 
-					<lb ed="#P"/>improbi terrena felicitate abundent probi enim mi<pc ana="#dbslash"/><lb ed="#P"/>seria 
-					<pc ana="#virgula"/> ergo debet fieri post hanc vita<pc ana="#virgula"/> ergo anima superstes 
-					<lb ed="#P"/>erit post mortem<pc ana="#punctus"/> Hoc argumentum testatur <name ref="#Clement of Alendria">Clemens
-					<lb ed="#P"/>Alexandrinus</name> libri 3<pc ana="#punctus"/> se ex ore <name ref="#Peter">Sancti Petri</name> audiuisse <pc ana="#punctus"/>
-				</p>
-				<p>
-					<lb ed="#P"/>2<pc ana="#punctus"/> simili demonstratione: Sed insatiabilis appetitus ae<lb ed="#P"/>ternitatis
-					cui libet homini insitus<pc ana="#punctus"/> Item responsus et vene <pc ana="#dbslash"/><lb ed="#P"/>ratio 
-					Numinis alicuius superioris cum secreto quodam re<pc ana="#dbslash"/><lb ed="#P"/>morsu 
-					consciae si id contemnatur ob timore poenae <pc ana="#punctus"/> 
-					<lb ed="#P"/>haec enim nisi essent si anima mortalis esset <pc ana="#punctus"/> Non enim ap<pc ana="#dbslash"/><lb ed="#P"/>peteret
-					quod impossibile sciret<pc ana="#punctus"/> neque adeo poenam time<pc ana="#dbslash"/><lb ed="#P"/>ret
-					<pc ana="#virgula"/> quam morte aeternum vitare posset<pc ana="#punctus"/>
-				</p>
-				<p>
-					<lb ed="#P"/>3<pc ana="#punctus"/> demonstratione naturali: Substantia spiritualis per se subsistens 
-					<lb ed="#P"/>est immortalis <pc ana="#virgula"/> anima humana est eiusmodi substantia ergo. 
-					<lb ed="#P"/>Maior patet primo quod sit substantia ominum consensu <pc ana="#punctus"/> Secundo <pc ana="#punctus"/> quod sit 
-					<lb ed="#P"/>spiritualis tum ex operationibus intellectus <pc ana="#virgula"/> quia ratiocinamur cir<pc ana="#dbslash"/><lb ed="#P"/>ca
-					spiritualia quae nullo sensu percepimus. Item cir<pc ana="#dbslash"/><lb ed="#P"/>ca 
-					fictitia quae nec sub nec esse possunt<pc ana="#punctus"/> Est a<pc ana="#punctus-medius"/> clarum
-					<lb ed="#P"/>potentiam materialem non nisi materiales operationes circa obiectum
-					<lb ed="#P"/>materiale habere posse: Tum ex operationibus voluntatis qui super<pc ana="#dbslash"/><lb ed="#P"/>naturalia 
-					neglectis omnibus ceteris appetitibus quod maa<pc ana="#dbslash"/><lb ed="#P"/>lis 
-					potentia nisi post<pc ana="#virgula"/> ergo principium intelligendi et volendi est
-				<pb ed="#P" n="214"/>
-					<lb ed="#P"/>immateriale et spirituale <pc ana="punctus"/> 3 <pc ana="#punctus"/> Quod sit per se subsistens 
-					<lb ed="#P"/>patet inde quia anima rationalis nisi post accipere exsistentiam 
-					<lb ed="#P"/>ab aliquo materiali cum iam probatum sit ipsam esse spiritua<pc ana="#dbslash"/><lb ed="#P"/>lem 
-					<pc ana="#virgula"/> ergo existentia animae et ab nulla causa materiali depen<pc ana="#dbslash"/><lb ed="#P"/>det 
-					<pc ana="#virgula"/> ergo est per se subsistens<pc ana="#punctus"/> Id enim quod ita habet ex<pc ana="#dbslash"/><lb ed="#P"/>istiam 
-					ab causa materiali independentem ex sua natura
-					<lb ed="#P"/>est incorruptibile <pc ana="#punctus"/> quia pereuntibus quondam materialia sub nihil 
-					<lb ed="#P"/>illi aufertur necrium ad existendum<pc ana="punctus"/> Pluribus 
-					<lb ed="#P"/>idem argumentum deducunt <unclear>Conimb.</unclear> disputatio 1<pc ana="#punctus"/> de anima 
-					<lb ed="#P"/>separata<pc ana="#punctus"/> Sanem etsi forte in bis demonstrationibus
-					<lb ed="#P"/>nisi omnes quid <name>iohanes</name> <unclear>lgiae</unclear> reperiantur<pc ana="#virgula"/> convincunt penetran<pc ana="#dbslash"/><lb ed="#P"/>tem 
-					<unclear>terminos[?]</unclear> ut contrariae opinioni assentiri nequeat<pc ana="#virgula"/> 
-					<lb ed="#P"/>et constat inde quod per ipsas plerique Philosophi ethnici ex<pc ana="#dbslash"/><lb ed="#P"/>ceplis 
-					<name ref="#Epicurus">Epicureis</name> immortalitatem animae cognoverint 
-					<lb ed="#P"/>cum primis <name ref="Plato">Platonici</name><pc ana="#punctus"/> Dixi in titulo Seclu <pc ana="#dbslash"/><lb ed="#P"/>sa 
-					fide nam hac absque ullo dubio credimus aram 
-					<lb ed="#P"/>immortalem cum ex alys locis Sanctae Scripturae cum illo: 
-					<lb ed="#P"/>Qui edit aiam suam in hoc mundo in vita aeternam
-					<lb ed="#P"/>custodit eam <pc ana="#punctus"/> Et illo: Nolite timere eos qui oc <pc ana="#dbslash"/><lb ed="#P"/>cidunt 
-					Corpus <pc ana="#punctus"/> Et illo <name ref="#Paul">Paulli</name> 1 <pc ana="#pucntus"/> ad Corinthians 15 
-					<lb ed="#P"/><quote>si in hac vita tantum sperantes sumus miserabiliores 
-					<lb ed="#P"/>sumus orbus hominibus</quote><pc ana="#punctus"/>
-				</p>
-				<p>
-					<lb ed="#P"/>Fuit olim consilio an anima sit immortalis ex propria 
-					<lb ed="#P"/>natura<pc ana="#virgula"/> an ex peculiari gratia Dei <pc type="#punctus-interrogativus">?</pc> Nunc artus 
-					<lb ed="#P"/>est esse immortales ex <unclear>intrnca</unclear> natura<pc ana="#virgula"/> Non quod im<pc ana="#virgula"/><pb ed="#P" n="215"/><lb ed="#P"/>mortalitas 
-					anima nisi sit domini Dei sine quo nec 
-					<lb ed="#P"/>esset anima, sed quod posito quod anima acceperit naturale 
-					<lb ed="#P"/>Esse ab Deo sit hac ipso immortalis absque novo 
-					<lb ed="#P"/>Dei dono obverso ab eo quo Esse accepit. <choice><unclear>SS</unclear> </choice><unclear>SS</unclear>
-					<lb ed="#P"/>Patres saepe dicunt animam esse immortalem ex gratia divi<pc ana="#dbslash"/><lb ed="#P"/>na 
-					nisi ex se <pc ana="#virgula"/> sed nihil aliud volunt quam solum 
-					<lb ed="#P"/>Deum esse immortalem ab se <pc ana="#virgula"/> <unclear>seliqua</unclear> quia immortalia 
-					<lb ed="#P"/>sed habere ab Deo, ex se esse mortale <pc ana="#punctus"/> id est ab Deo pos<pc ana="#dbslash"/><lb ed="#P"/>se 
-					destrui si velit<pc ana="#punctus"/>
-				</p>
-			</div>	
-		</body>
-	</text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Disputatio IV, Sectio 1, Difficultas I [Penn855 Transcription]</title>
+        <author>Placidus Aegidius Melander</author>
+        <editor>Daniel </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Disputatio IV, Sectio 1, Difficultas I [Penn855 Transcription]</title>
+          <date when="2016-05-17">May 17, 2016</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SIMS</authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref></p>
+        </availability>
+        <date when="2016-05-17">May 17, 2016</date>  
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="penn855">Philadelphia, University of Pennyslvania, ms. codex 855</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef
+        n="lbp-diplomatic-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/1.0/diplomatic.rng">
+      </schemaRef>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2015-07-18" who="#JW" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="includeList">
+        <xi:include href="https://bitbucket.org/lombardpress/lombardpress-lists/raw/master/workscited.xml" xpointer="worksCited"/>
+        <xi:include href="https://bitbucket.org/lombardpress/lombardpress-lists/raw/master/Prosopography.xml" xpointer="prosopography"/>
+      </div>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="212"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="pam-d4s1d1">
+        <head>Disputatio IV, Sectio 1, Difficultas I [Penn855 Transcription]</head>
+        <head type="questionTitle">An possit evidenter demonstrari seclusa fide catholica animam rationalem esse immortalem</head>
+        <p>
+          <lb ed="#P"/>Respondet sententia posse<pc ana="#virgula"/> 1<pc ana="#punctus"/> Demonstratione et certitudine 
+          <lb ed="#P"/>morali <pc ana="#virgula"/> hoc modo: Si deus providens<pc ana="#virgula"/> et iustus est anima 
+        <pb ed="#P" n="213"/>
+          <lb ed="#P"/>rationalis immortalis est<pc ana="#virgula"/> sed Deus est providens et iustus ergo 
+          <lb ed="#P"/>Minor patet lumine naturali<pc ana="#punctus"/> Maior probatur<pc ana="#punctus"/> Si Deus pro<pc ana="#dbslash"/><lb ed="#P"/>videns
+          et iustus est aequus est ut probos Dei cultores prae<pc ana="#dbslash"/><lb ed="#P"/>mio 
+          afficiat<pc ana="#virgula"/> improbos enim et Consentores supplicio<pc ana="#punctus"/> 
+          <lb ed="#P"/>hoc enim evidentur nisi fit semper in hoc vita cum plerumque 
+          <lb ed="#P"/>improbi terrena felicitate abundent probi enim mi<pc ana="#dbslash"/><lb ed="#P"/>seria 
+          <pc ana="#virgula"/> ergo debet fieri post hanc vita<pc ana="#virgula"/> ergo anima superstes 
+          <lb ed="#P"/>erit post mortem<pc ana="#punctus"/> Hoc argumentum testatur <name ref="#Clement of Alendria">Clemens
+          <lb ed="#P"/>Alexandrinus</name> libri 3<pc ana="#punctus"/> se ex ore <name ref="#Peter">Sancti Petri</name> audiuisse <pc ana="#punctus"/>
+        </p>
+        <p>
+          <lb ed="#P"/>2<pc ana="#punctus"/> simili demonstratione: Sed insatiabilis appetitus ae<lb ed="#P"/>ternitatis
+          cui libet homini insitus<pc ana="#punctus"/> Item responsus et vene <pc ana="#dbslash"/><lb ed="#P"/>ratio 
+          Numinis alicuius superioris cum secreto quodam re<pc ana="#dbslash"/><lb ed="#P"/>morsu 
+          consciae si id contemnatur ob timore poenae <pc ana="#punctus"/> 
+          <lb ed="#P"/>haec enim nisi essent si anima mortalis esset <pc ana="#punctus"/> Non enim ap<pc ana="#dbslash"/><lb ed="#P"/>peteret
+          quod impossibile sciret<pc ana="#punctus"/> neque adeo poenam time<pc ana="#dbslash"/><lb ed="#P"/>ret
+          <pc ana="#virgula"/> quam morte aeternum vitare posset<pc ana="#punctus"/>
+        </p>
+        <p>
+          <lb ed="#P"/>3<pc ana="#punctus"/> demonstratione naturali: Substantia spiritualis per se subsistens 
+          <lb ed="#P"/>est immortalis <pc ana="#virgula"/> anima humana est eiusmodi substantia ergo. 
+          <lb ed="#P"/>Maior patet primo quod sit substantia ominum consensu <pc ana="#punctus"/> Secundo <pc ana="#punctus"/> quod sit 
+          <lb ed="#P"/>spiritualis tum ex operationibus intellectus <pc ana="#virgula"/> quia ratiocinamur cir<pc ana="#dbslash"/><lb ed="#P"/>ca
+          spiritualia quae nullo sensu percepimus. Item cir<pc ana="#dbslash"/><lb ed="#P"/>ca 
+          fictitia quae nec sub nec esse possunt<pc ana="#punctus"/> Est a<pc ana="#punctus-medius"/> clarum
+          <lb ed="#P"/>potentiam materialem non nisi materiales operationes circa obiectum
+          <lb ed="#P"/>materiale habere posse: Tum ex operationibus voluntatis qui super<pc ana="#dbslash"/><lb ed="#P"/>naturalia 
+          neglectis omnibus ceteris appetitibus quod maa<pc ana="#dbslash"/><lb ed="#P"/>lis 
+          potentia nisi post<pc ana="#virgula"/> ergo principium intelligendi et volendi est
+        <pb ed="#P" n="214"/>
+          <lb ed="#P"/>immateriale et spirituale <pc ana="punctus"/> 3 <pc ana="#punctus"/> Quod sit per se subsistens 
+          <lb ed="#P"/>patet inde quia anima rationalis nisi post accipere exsistentiam 
+          <lb ed="#P"/>ab aliquo materiali cum iam probatum sit ipsam esse spiritua<pc ana="#dbslash"/><lb ed="#P"/>lem 
+          <pc ana="#virgula"/> ergo existentia animae et ab nulla causa materiali depen<pc ana="#dbslash"/><lb ed="#P"/>det 
+          <pc ana="#virgula"/> ergo est per se subsistens<pc ana="#punctus"/> Id enim quod ita habet ex<pc ana="#dbslash"/><lb ed="#P"/>istiam 
+          ab causa materiali independentem ex sua natura
+          <lb ed="#P"/>est incorruptibile <pc ana="#punctus"/> quia pereuntibus quondam materialia sub nihil 
+          <lb ed="#P"/>illi aufertur necrium ad existendum<pc ana="punctus"/> Pluribus 
+          <lb ed="#P"/>idem argumentum deducunt <unclear>Conimb.</unclear> disputatio 1<pc ana="#punctus"/> de anima 
+          <lb ed="#P"/>separata<pc ana="#punctus"/> Sanem etsi forte in bis demonstrationibus
+          <lb ed="#P"/>nisi omnes quid <name>iohanes</name> <unclear>lgiae</unclear> reperiantur<pc ana="#virgula"/> convincunt penetran<pc ana="#dbslash"/><lb ed="#P"/>tem 
+          <unclear>terminos[?]</unclear> ut contrariae opinioni assentiri nequeat<pc ana="#virgula"/> 
+          <lb ed="#P"/>et constat inde quod per ipsas plerique Philosophi ethnici ex<pc ana="#dbslash"/><lb ed="#P"/>ceplis 
+          <name ref="#Epicurus">Epicureis</name> immortalitatem animae cognoverint 
+          <lb ed="#P"/>cum primis <name ref="Plato">Platonici</name><pc ana="#punctus"/> Dixi in titulo Seclu <pc ana="#dbslash"/><lb ed="#P"/>sa 
+          fide nam hac absque ullo dubio credimus aram 
+          <lb ed="#P"/>immortalem cum ex alys locis Sanctae Scripturae cum illo: 
+          <lb ed="#P"/>Qui edit aiam suam in hoc mundo in vita aeternam
+          <lb ed="#P"/>custodit eam <pc ana="#punctus"/> Et illo: Nolite timere eos qui oc <pc ana="#dbslash"/><lb ed="#P"/>cidunt 
+          Corpus <pc ana="#punctus"/> Et illo <name ref="#Paul">Paulli</name> 1 <pc ana="#pucntus"/> ad Corinthians 15 
+          <lb ed="#P"/><quote>si in hac vita tantum sperantes sumus miserabiliores 
+          <lb ed="#P"/>sumus orbus hominibus</quote><pc ana="#punctus"/>
+        </p>
+        <p>
+          <lb ed="#P"/>Fuit olim consilio an anima sit immortalis ex propria 
+          <lb ed="#P"/>natura<pc ana="#virgula"/> an ex peculiari gratia Dei <pc type="#punctus-interrogativus">?</pc> Nunc artus 
+          <lb ed="#P"/>est esse immortales ex <unclear>intrnca</unclear> natura<pc ana="#virgula"/> Non quod im<pc ana="#virgula"/><pb ed="#P" n="215"/><lb ed="#P"/>mortalitas 
+          anima nisi sit domini Dei sine quo nec 
+          <lb ed="#P"/>esset anima, sed quod posito quod anima acceperit naturale 
+          <lb ed="#P"/>Esse ab Deo sit hac ipso immortalis absque novo 
+          <lb ed="#P"/>Dei dono obverso ab eo quo Esse accepit. <choice><unclear>SS</unclear> </choice><unclear>SS</unclear>
+          <lb ed="#P"/>Patres saepe dicunt animam esse immortalem ex gratia divi<pc ana="#dbslash"/><lb ed="#P"/>na 
+          nisi ex se <pc ana="#virgula"/> sed nihil aliud volunt quam solum 
+          <lb ed="#P"/>Deum esse immortalem ab se <pc ana="#virgula"/> <unclear>seliqua</unclear> quia immortalia 
+          <lb ed="#P"/>sed habere ab Deo, ex se esse mortale <pc ana="#punctus"/> id est ab Deo pos<pc ana="#dbslash"/><lb ed="#P"/>se 
+          destrui si velit<pc ana="#punctus"/>
+        </p>
+      </div>  
+    </body>
+  </text>
 </TEI>
 
