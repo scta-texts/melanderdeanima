@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/0.0/diplomatic/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/0.0/diplomatic/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Disputatio IV, Sectio 1, Difficultas II [Penn855 Transcription]</title>
+				<author>Placidus Aegidius Melander</author>
+				<editor>Daniel </editor>
+			</titleStmt>
+			<editionStmt>
+				<edition n="0.0.0-dev">
+					<title>Disputatio IV, Sectio 1, Difficultas II [Penn855 Transcription]</title>
+					<date when="2016-10-14">OCt 14, 2016</date>
+				</edition>
+			</editionStmt>
+			<publicationStmt>
+				<publisher>Lombard Press</publisher>
+				<pubPlace>Baltimore, MD</pubPlace>
+				<availability status="free">
+					<p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref></p>
+				</availability>
+				<date when="2016-10-14">Oct 14, 2016</date>  
+			</publicationStmt>
+			<sourceDesc>
+				<listWit>
+					<witness xml:id="P" n="penn855">Philadelphia, University of Pennyslvania, ms. codex 855</witness>
+				</listWit>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="draft">
+			<listChange>
+				<change when="2016-10-14" who="#JW" status="draft" n="0.0.0-dev">
+					<p>Created file for the first time.</p>
+					<note type="status">
+						<note type="collobaration">Yes</note>
+						<note type="validating-schema">lbp-0.0.1</note>
+						<note type="transcription-type">documentary</note>
+					</note>
+				</change>
+			</listChange>
+		</revisionDesc>
+	</teiHeader>
+	
+	<text xml:lang="la">
+		<front>
+			<div xml:id="includeList">
+				<xi:include href="https://bitbucket.org/lombardpress/lombardpress-lists/raw/master/workscited.xml" xpointer="worksCited"/>
+				<xi:include href="https://bitbucket.org/lombardpress/lombardpress-lists/raw/master/Prosopography.xml" xpointer="prosopography"/>
+			</div>
+			<div xml:id="starts-on">
+				<pb ed="#P" n="215"/>
+			</div>
+		</front>
+		<body>
+			<div xml:id="pam-d4s1d2">
+				<head>Disputatio IV, Sectio 1, Difficultas II [Penn855 Transcription]</head>
+				<!--Space for header here - 7 lines - Text missing -->
+				<p><lb ed="#P"/>[Missing Title of next section - Blank space of approximately 4 lines. Difficultas II.] 
+					<lb ed="#P"/>Suppono differre essentialiter Angelum et Animam cum ille 
+					<lb ed="#P"/>sit substantia completa <pc ana="#virgula"/> anima incompleta. 
+				</p>
+				<p>
+					<lb ed="#P"/>Responsa negative<pc ana="#punctus"/> Ratio est<pc ana="#virgula"/> quia substantia conpleta perfectior 
+					<lb ed="#P"/>est quam incompleta si in ceteris conveniant <pc ana="#punctus"/> Angelus 
+					<lb ed="#P"/>et anima conveniunt in eo quod sunt substantia spirituales intel<pc ana="#virgula"/><lb ed="#P"/>lectivae 
+					<name ref="#Christ">Christi</name> in genere substantiae spirituales perfectiores sunt 
+					<lb ed="#P"/>Angeli <pc ana="#punctus"/> 
+				</p>
+				<p>
+					<lb ed="#P"/>Dices<pc ana="#punctus"/> 1<pc ana="#punctus"/> ergo Anima <name ref="#Christ">Christi</name> Domini aut et <name ref="#Mary">Benedicta Virgo</name> 
+					<lb ed="#P"/>nisi fuerunt nobiliores ulli Angelo<pc ana="#punctus"/> 
+				</p>
+				<p>
+					<lb ed="#P"/>Responsa secundum naturam non fuerunt nobiliores<pc ana="#virgula"/> sed 
+					<lb ed="#P"/>bene secundem gratiam qua cumulatissime abundabant<pc ana="#punctus"/>
+				</p>
+				<p>
+					<lb ed="#P"/>Dices<pc ana="punctus"/> 2<pc ana="punctus"/> quia monstrat minor est<pc ana="#virgula"/> Angeli custodes 
+					<lb ed="#P"/>monstravit <name>Arabus</name><pc ana="#punctus"/> 
+				</p>
+				<pb ed="#P" n="216"/> 
+				<p>
+					<lb ed="#P"/>Responsa ad Maior minor est in conditione qua Maior est<pc ana="#virgula"/> 
+					<lb ed="#P"/>transeat<pc ana="virgula"/> in natura<pc ana="#virgula"/> nego<pc ana="#punctus"/> Sanem <name ref="#Christ">Christus Dominus</name> monstrare 
+					<lb ed="#P"/>venit perfectior tamen fuit quam quibus monstravit<pc ana="#punctus"/>
+				</p>
+				<p>
+					<lb ed="#P"/>Dices 3 <pc ana="#punctus"/> eaedem sub proprietates Animae et Angeli 
+					<lb ed="#P"/>ille loquitur voluntas potentia locomotiva praeter quas nul<pc ana="#virgula"/><lb ed="#P"/>las 
+						habet ergo sub eiusdem naturae <pc ana="#punctus"/> 
+				</p>
+				<p>
+					<lb ed="#P"/>Si ille loquitur horum et Angelorum specie differt<pc ana="virgula"/> ut est 
+					<lb ed="#P"/>communior opinio argentum nihil valet<pc ana="#virgula"/> quia <unclear>Antecedentis?</unclear> est ve<pc ana="#dbslash"/><lb ed="#P"/>rum 
+					de iisdem contrarie<pc ana="#virgula"/> nisi specie<pc ana="#punctus"/> Si enim nisi differunt<pc ana="#punctus"/> 
+				</p> 
+				<p>
+					<lb ed="#P"/>Responsa etsi ex his proprietatibus nisi colligar essentia<pc ana="#dbslash"/><lb ed="#P"/>lis 
+					diversitas illarum substantiarum<pc ana="#virgula"/> colligi tamen ex Esse 
+					<lb ed="#P"/>conpleto et inconpleto quorum illud habent Angeli hoc Anima<pc ana="#punctus"/> 
+					<lb ed="#P"/>Easdem enim specie proprietates prodire ab diversis formis  
+					<lb ed="#P"/>nisi est insolitum<pc ana="#punctus"/> quia potentia videndi<pc ana="#virgula"/> audiendi <pc ana="#virgula"/> ab di <pc ana="#virgula"/><lb ed="#P"/> 
+					verissimis <unclear>arabus[?]</unclear> provenit<pc ana="#punctus"/> An enim specie differant 
+					<lb ed="#P"/>illi ille loquitur <unclear>infra</unclear> <unclear>dicere[?]</unclear><pc ana="#punctus"/>
+				</p>
+			</div>	
+		</body>
+	</text>
+</TEI>
+
