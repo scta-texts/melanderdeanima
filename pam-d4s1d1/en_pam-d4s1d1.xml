@@ -4,8 +4,6 @@
       <titleStmt>
         <title>Disputatio IV, Sectio 1, Difficultas I </title>
         <author>Placidus Aegidius Melander</author>
-        <editor>Daniel Mackey</editor>
-        <editor>Jeffrey C. Witt</editor>
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
@@ -43,7 +41,7 @@
     </revisionDesc>
   </teiHeader>
   
-  <text xml:lang="la">
+  <text xml:lang="en">
     <front>
       <div xml:id="starts-on">
         <pb ed="#P" n="212"/>
@@ -54,11 +52,18 @@
         <head xml:id="pam-d4s1d1-Hd1e3852">Disputatio IV, Sectio 1, Difficultas I </head> 
         <head xml:id="pam-d4s1d1-Hd1e3855" type="questionTitle">An possit evidenter demonstrari seclusa fide Catholica animam rationalem esse immortalem</head> 
         <p xml:id="pam-d4s1d1-d1e3858">
-          Responderi sententia posse primo demonstratione et certitudine 
-          morali, hoc modo: Si deus providens et iustus est, anima 
-        <pb ed="#P" n="213"/>
-          rationalis immortalis est. Sed Deus est providens et iustus, ergo. 
-          Minor patet lumine naturali. Maior probatur. Si Deus providens
+          The opinion is able to be responded in the first place with demonstration and
+          moral certitude in the following way. 
+          If God is provident and just, 
+          the rational soul <pb ed="#P" n="213"/> 
+          is immortal. 
+          But God is provident and just, 
+          therefore. 
+          Teh minor is clear through the natural light. 
+          The major is proved: 
+          if God is provident and just, 
+          
+           Si Deus providens
           et iustus est, aequus est ut probos Dei cultores praemio 
           afficiat, improbos enim et consentores supplicio.  
           hoc enim evidentur nisi fit semper in hoc vita cum plerumque 
