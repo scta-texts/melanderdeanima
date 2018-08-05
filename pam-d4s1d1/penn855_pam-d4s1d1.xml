@@ -112,10 +112,10 @@
           <lb ed="#P"/>cum primis <name ref="Plato">Platonici</name><pc ana="#punctus"/> Dixi in titulo Seclu <pc ana="#dbslash"/><lb ed="#P"/>sa 
           fide nam hac absque ullo dubio credimus animam 
           <lb ed="#P"/>immortalem cum ex alys locis Sanctae Scripturae cum illo: 
-          <lb ed="#P"/><quote xml:id="pam-d4s1d1-Qd1e141">Qui odit animam suam in hoc mundo in vitam aeternam
-            <lb ed="#P"/>custodit eam</quote> <pc ana="#punctus"/> Et illo: <quote xml:id="pam-d4s1d1-Qd1e144">Nolite timere eos qui oc <pc ana="#dbslash"/><lb ed="#P"/>cidunt 
+          <lb ed="#P"/><quote xml:id="pam-d4s1d1-Qd1e141" ana="#io12_25">Qui odit animam suam in hoc mundo in vitam aeternam
+            <lb ed="#P"/>custodit eam</quote> <pc ana="#punctus"/> Et illo: <quote xml:id="pam-d4s1d1-Qd1e144" ana="#mt10_28">Nolite timere eos qui oc <pc ana="#dbslash"/><lb ed="#P"/>cidunt 
           Corpus</quote> <pc ana="#punctus"/> Et illo <name ref="#Paul">Paulli</name> 1 <pc ana="#pucntus"/> ad Corintios 15 
-          <lb ed="#P"/><quote>si in hac vita tantum sperantes sumus miserabiliores 
+          <lb ed="#P"/><quote ana="Icor15_19">si in hac vita tantum sperantes sumus miserabiliores 
           <lb ed="#P"/>sumus orbus hominibus</quote><pc ana="#punctus"/>
         </p>
         <p>
