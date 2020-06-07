@@ -48,10 +48,6 @@
   </teiHeader>
   <text xml:lang="la">
     <front>
-      <div xml:id="includeList">
-        <xi:include href="https://bitbucket.org/lombardpress/lombardpress-lists/raw/master/workscited.xml" xpointer="worksCited"/>
-        <xi:include href="https://bitbucket.org/lombardpress/lombardpress-lists/raw/master/Prosopography.xml" xpointer="prosopography"/>
-      </div>
       <div xml:id="starts-on">
         <pb ed="#P" n="212"/>
       </div>
@@ -61,9 +57,9 @@
         <head>Disputatio IV, Sectio 1, Difficultas I [Penn855 Transcription]</head>
         <head type="questionTitle">An possit evidenter demonstrari seclusa fide catholica animam rationalem esse immortalem</head>
         <p>
-          <lb ed="#P"/><unclear>Responderi</unclear> sententia posse <pc ana="#virgula"/> 1<pc ana="#punctus"/> Demonstratione et certitudine 
+          <lb ed="#P" n="13"/><unclear>Responderi</unclear> sententia posse <pc ana="#virgula"/> 1<pc ana="#punctus"/> Demonstratione et certitudine 
           <lb ed="#P"/>morali <pc ana="#virgula"/> hoc modo: Si deus providens<pc ana="#virgula"/> et iustus est anima 
-        <pb ed="#P" n="213"/>
+          <pb ed="#P" n="213"/>
           <lb ed="#P"/>rationalis immortalis est<pc ana="#virgula"/> sed Deus est providens et iustus ergo 
           <lb ed="#P"/>Minor patet lumine naturali<pc ana="#punctus"/> Maior probatur<pc ana="#punctus"/> Si Deus pro<pc ana="#dbslash"/><lb ed="#P"/>videns
           et iustus est aequus est ut probos Dei cultores prae<pc ana="#dbslash"/><lb ed="#P"/>mio 
@@ -71,7 +67,7 @@
           <lb ed="#P"/>hoc enim evidentur nisi fit semper in hoc vita cum plerumque 
           <lb ed="#P"/>improbi terrena felicitate abundent probi enim mi<pc ana="#dbslash"/><lb ed="#P"/>seria 
           <pc ana="#virgula"/> ergo debet fieri post hanc vita<pc ana="#virgula"/> ergo anima superstes 
-          <lb ed="#P"/>erit post mortem<pc ana="#punctus"/> Hoc argumentum testatur <name ref="#Clement of Alendria">Clemens
+          <lb ed="#P"/>erit post mortem<pc ana="#punctus"/> Hoc argumentum testatur <name ref="#ClementOfAlexandria">Clemens
           <lb ed="#P"/>Alexandrinus</name> libro 3<pc ana="#punctus"/> se ex ore <name ref="#Peter">Sancti Petri</name> audiuisse <pc ana="#punctus"/>
         </p>
         <p>
